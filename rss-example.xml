@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+
+<channel>
+	<title>RatholeRadio.org (Ogg Version)</title>
+	<atom:link href="http://ratholeradio.org/feed/podcast/?format=ogg&#038;paged=1" rel="self" type="application/rss+xml" />
+	<link>http://ratholeradio.org</link>
+	<description>Music, Waffling, Live Performances &#38; Laughs</description>
+	<lastBuildDate>Tue, 18 Sep 2012 15:59:57 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.4.2</generator>
+<itunes:summary>An Internet radio show and podcast about music, free culture, news, interviews and politics. Brought to you with humour, the best in new music and exclusive live performances. All from sunny Liverpool in the UK. Come join us at - ratholeradio.org</itunes:summary>
+	<itunes:subtitle>Music, Waffling, Live Performances &amp; Laughs</itunes:subtitle>
+	<itunes:author>Dan Lynch</itunes:author>
+	<itunes:image href="http://ratholeradio.org/rathole_cover.png" />
+	<image><url>http://ratholeradio.org/rathole_cover.png</url><title>RatholeRadio.org</title><link>http://ratholeradio.org</link></image>
+	<itunes:category text="Music" />
+	<itunes:category text="Comedy" />
+	<itunes:category text="Technology" />
+	<itunes:keywords>music, live performances, liverpool, free culture, linux, free software, news, humour, british, politics</itunes:keywords>
+	<itunes:explicit>yes</itunes:explicit>
+	<itunes:owner>
+		<itunes:name>Dan Lynch</itunes:name>
+		<itunes:email>show@ratholeradio.org</itunes:email>
+	</itunes:owner>
+			<item>
+		<title>RatholeRadio 87 &#8211; Sept 16th 2012</title>
+		<link>http://ratholeradio.org/2012/09/ep87/</link>
+		<comments>http://ratholeradio.org/2012/09/ep87/#comments</comments>
+		<pubDate>Tue, 18 Sep 2012 14:10:44 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Regular Show]]></category>
+
+		<guid isPermaLink="false">http://ratholeradio.org/?p=1223</guid>
+		<description><![CDATA[Download Ogg &#8211; Download Mp3 A very overdue and slightly chaotic episode this. My studio mixer died in ...<a href="http://ratholeradio.org/2012/09/ep87/" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://traffic.libsyn.com/ratholeradio/RR087_16_09_2012.ogg" target="_blank">Download Ogg</a> &#8211; <a href="http://traffic.libsyn.com/ratholeradio/RR087_16_09_2012.mp3" target="_blank">Download Mp3</a></strong></p>
+
+<p>A very overdue and slightly chaotic episode this. My studio mixer died in the last week and messed things up good and proper. I have a temporary replacement until I can afford to get it fixed but I apologise for the delay. Delay aside I really enjoyed making this show and I hope you&#8217;ll enjoy listening.<br />
+<span id="more-1223"></span></p>
+<p>00:00 &#8211; <a href="https://www.facebook.com/spitrusty">Spit Rusty</a> &#8211; <a href="http://www.jamendo.com/en/track/896461">Those Days</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; A bit of rock from Denmark to kick us off.</p>
+<p>08:20 &#8211; Teddy Presberg &#8211; <a href="http://music.teddypresberg.com/track/mmxii">MMXII</a> &#8211; <strong>All Rights Reserved</strong> &#8211; Got this via fellow AMPer Rodrigo De Sa. They call it Psych Jazz, I’ve call it electronica. Let’s agree to differ.<br />
+&#8212;&#8212;<br />
+11:25 &#8211; <a href="http://bellaruse.com/">Bella Ruse</a> &#8211; <a href="http://www.jamendo.com/en/track/475357">Dark Horse</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Ukrainian artist with a beautiful voice. Listen to her music, it’s excellent.</p>
+<p>16:36 &#8211; <a href="http://www.endk.com/">[dK]</a> &#8211; <a href="http://www.jamendo.com/en/track/873623">Imprinting</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Another track pilfered from CCHits.net.<br />
+&#8212;&#8212;<br />
+19:00 &#8211; <a href="http://www.myspace.com/badwithnamesmusic">Bad With Names</a> &#8211; <a href="http://www.jamendo.com/en/track/467866">The Weight</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; A band I’ve played 2 or 3 times on the show before. They’re from Chicago and they’re well worth checking out.</p>
+<p>26:07 &#8211; <a href="http://www.heifervescent.com/">Heifervescent</a> &#8211; <a href="http://www.jamendo.com/en/track/945612/what-animal-are-you">What Animal Are You?</a> &#8211; <strong>CC BY-NC-ND Licensed</strong> &#8211; Another artist who has appeared on the show many times. Based in Southport, which is only 30mins from me but we’ve never me, at least to my knowledge.<br />
+&#8212;&#8212;-<br />
+29:45 &#8211; <a href="http://wearefm.nl">We are FM</a> &#8211; <a href="http://www.jamendo.com/en/track/887203/no-words-director-s-cut">No Words (Directors cut)</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Another track from these Dutch electro-rock meisters.</p>
+<p>38:40 &#8211; LIVE SONG &#8211; “Anna Begins” by <a href="http://www.countingcrows.com/">Counting Crows</a>. A song I’ve always loved by one of my favourite bands. Check out the album August &amp; Everything After if you’ve never heard it. You can thank me later.</p>
+<p>44:49 &#8211; <a href="http://singleton.com.ua/">Singleton</a> &#8211; <a href="http://www.jamendo.com/en/track/942472">Shine</a> &#8211; <strong>CC BY-SA Licensed</strong> &#8211; An awesome Ukrainian band that I don’t think I’ve played before. 2 artists from the Ukraine on one show, I may have to investigate the country more.</p>
+<p>48:50 &#8211; LIVE SONG 2 The Revenge &#8211; Another stab at “That’s Life” by Frank Sinatra after I made an unholy mess of it on the last show. I realised I needed to fill some time and thought it was worth another shot.</p>
+<p>55:14 &#8211; <a href="http://www.myspace.com/howitzerslo">Howitzer Slo</a> &#8211; <a href="http://www.jamendo.com/en/track/303108">Good For Nothing</a> &#8211; <strong>CC BY-NC-ND Licensed</strong> &#8211; A Slovenian band with a great funky sound. This really reminded me of Red Hot Chilli Peppers from around the “Fight Like A Brave” period.</p>
+<p>Thanks to everyone who has supported the show financially. I couldn&#8217;t do it without you and I love you all. If you enjoy the show consider sending a little tip via Paypal or Flattr. Thank you!</p>
+<p><strong>Get In Touch: </strong>Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I&#8217;m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom.<strong> </strong></p>
+<h3><strong>Email all feedback and suggestions to &#8211; show AT ratholeradio.org</strong></h3>
+<h3>You can also find me on <a href="http://twitter.com/ratholeradio" target="_blank">Twitter</a> and <a href="http://identi.ca/ratholeradio" target="_blank">Identi.ca</a>. Like us <a href="http://facebook.com/ratholeradio" target="_blank">on Facebook</a> and &#8220;Plus&#8221; us on Google+</h3>
+<h3><strong>Next Live Show:</strong> Sunday Sept 30th &#8211; 9pm UK Time.</h3>
+<p>Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at <strong>irc.freenode.net </strong>the channel name is <strong>#ratholeradio</strong>. I don&#8217;t expect much to happen there in the weeks between shows, but if people want to hang around and chat you&#8217;re more than welcome. Don&#8217;t forget you can access the channel from a web browser by going to <strong><a href="http://webchat.freenode.net" target="_blank">webchat.freenode.net</a> </strong>and entering #ratholeradio in the channel text box. Take care till next time folks.</p>
+<p><strong>Subscribe to the show and get it delivered for free:</strong><a href="http://feeds2.feedburner.com/RatholeRadio" target="_blank"> Mp3 feed</a> &#8211; <a href="http://feeds2.feedburner.com/RatholeRadio-ogg" target="_blank">Ogg Feed</a> &#8211; <a href="itpc://feeds2.feedburner.com/RatholeRadio" target="_blank">iTunes</a></p>
+<p><strong>Music Sources and Licensing: </strong>A few of the tracks in this show are from the artists own personal websites and don&#8217;t contain licensing information. That&#8217;s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.</p>
+<p>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>.</p>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<ul>
+<li><strong>Association Of Music Podcasting:</strong>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>. Check out all the other great member shows.</li>
+<li><a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" alt="Creative Commons License" /></a> Rathole Radio by <a href="http://ratholeradio.org" rel="cc:attributionURL">Dan Lynch</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license">Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License</a>. Proud Member of The Association Of Music Podcasting &#8211; visit <a href="http://musicpodcasting.org" target="_blank"><strong>musicpodcasting.org</strong></a>for more details.</li>
+</ul>
+</div>
+ <p><a href="http://ratholeradio.org/?flattrss_redirect&amp;id=1223&amp;md5=64b63d66c09c5bc4f7c69890166a580b" title="Flattr" target="_blank"><img src="http://methoddan.webfactional.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://ratholeradio.org/2012/09/ep87/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/ratholeradio/RR087_16_09_2012.ogg" length="0" type="audio/ogg" />
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=20lb&amp;popout=1&amp;url=http%3A%2F%2Fratholeradio.org%2F2012%2F09%2Fep87%2F&amp;language=en_GB&amp;category=audio&amp;title=RatholeRadio+87+%26%238211%3B+Sept+16th+2012&amp;description=Download+Ogg+%26%238211%3B+Download+Mp3+A+very+overdue+and+slightly+chaotic+episode+this.+My+studio+mixer+died+in+the+last+week+and+messed+things+up+good+and+proper.+I+have...&amp;tags=blog" type="text/html" />
+<itunes:summary>Download Ogg – Download Mp3
+
+A very overdue and slightly chaotic episode this. My studio mixer died in the last week and messed things up good and proper. I have a temporary replacement until I can afford to get it fixed but I apologise for the delay. Delay aside I really enjoyed making this show and I hope you’ll enjoy listening.
+
+00:00 – Spit Rusty – Those Days – CC BY-NC-SA Licensed – A bit of rock from Denmark to kick us off.
+08:20 – Teddy Presberg – MMXII – All Rights Reserved – Got this via fellow AMPer Rodrigo De Sa. They call it Psych Jazz, I’ve call it electronica. Let’s agree to differ.
+——
+11:25 – Bella Ruse – Dark Horse – CC BY-NC-SA Licensed – Ukrainian artist with a beautiful voice. Listen to her music, it’s excellent.
+16:36 – [dK] – Imprinting – CC BY-NC-SA Licensed – Another track pilfered from CCHits.net.
+——
+19:00 – Bad With Names – The Weight – CC BY-NC-SA Licensed – A band I’ve played 2 or 3 times on the show before. They’re from Chicago and they’re well worth checking out.
+26:07 – Heifervescent – What Animal Are You? – CC BY-NC-ND Licensed – Another artist who has appeared on the show many times. Based in Southport, which is only 30mins from me but we’ve never me, at least to my knowledge.
+——-
+29:45 – We are FM – No Words (Directors cut) – CC BY-NC-SA Licensed – Another track from these Dutch electro-rock meisters.
+38:40 – LIVE SONG – “Anna Begins” by Counting Crows. A song I’ve always loved by one of my favourite bands. Check out the album August &amp; Everything After if you’ve never heard it. You can thank me later.
+44:49 – Singleton – Shine – CC BY-SA Licensed – An awesome Ukrainian band that I don’t think I’ve played before. 2 artists from the Ukraine on one show, I may have to investigate the country more.
+48:50 – LIVE SONG 2 The Revenge – Another stab at “That’s Life” by Frank Sinatra after I made an unholy mess of it on the last show. I realised I needed to fill some time and thought it was worth another shot.
+55:14 – Howitzer Slo – Good For Nothing – CC BY-NC-ND Licensed – A Slovenian band with a great funky sound. This really reminded me of Red Hot Chilli Peppers from around the “Fight Like A Brave” period.
+Thanks to everyone who has supported the show financially. I couldn’t do it without you and I love you all. If you enjoy the show consider sending a little tip via Paypal or Flattr. Thank you!
+Get In Touch: Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I’m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom. 
+Email all feedback and suggestions to – show AT ratholeradio.org
+You can also find me on Twitter and Identi.ca. Like us on Facebook and “Plus” us on Google+
+Next Live Show: Sunday Sept 30th – 9pm UK Time.
+Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at irc.freenode.net the channel name is #ratholeradio. I don’t expect much to happen there in the weeks between shows, but if people want to hang around and chat you’re more than welcome. Don’t forget you can access the channel from a web browser by going to webchat.freenode.net and entering #ratholeradio in the channel text box. Take care till next time folks.
+Subscribe to the show and get it delivered for free: Mp3 feed – Ogg Feed – iTunes
+Music Sources and Licensing: A few of the tracks in this show are from the artists own personal websites and don’t contain licensing information. That’s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on [...]</itunes:summary>
+<itunes:subtitle>Download Ogg – Download Mp3 A very overdue and slightly chaotic episode this. My studio mixer died in ...&lt;a href=&quot;http://ratholeradio.org/2012/09/ep87/&quot; class=&quot;read-more&quot;&gt;Continue Reading&lt;/a&gt;</itunes:subtitle>
+	</item>
+		<item>
+		<title>RatholeRadio 86 &#8211; 9th Sept 2012</title>
+		<link>http://ratholeradio.org/2012/09/ep86/</link>
+		<comments>http://ratholeradio.org/2012/09/ep86/#comments</comments>
+		<pubDate>Mon, 10 Sep 2012 14:45:19 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Regular Show]]></category>
+
+		<guid isPermaLink="false">http://ratholeradio.org/?p=1216</guid>
+		<description><![CDATA[Download Ogg &#8211; Download Mp3 A very overdue and slightly chaotic episode this. My studio mixer died in ...<a href="http://ratholeradio.org/2012/09/ep86/" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://traffic.libsyn.com/ratholeradio/RR086_09_09_2012.ogg" target="_blank">Download Ogg</a> &#8211; <a href="http://traffic.libsyn.com/ratholeradio/RR086_09_09_2012.mp3" target="_blank">Download Mp3</a></strong></p>
+
+<p>A very overdue and slightly chaotic episode this. My studio mixer died in the last week and messed things up good and proper. I have a temporary replacement until I can afford to get it fixed but I apologise for the delay. Delay aside I really enjoyed making this show and I hope you&#8217;ll enjoy listening.<br />
+<span id="more-1216"></span></p>
+<p>00:00 &#8211; <a href="http://www.myspace.com/theacousticals">The Acousticals</a> &#8211; <a href="http://www.jamendo.com/en/track/147219/sally-anne">Sally Anne</a> -<strong> CC BY-SA Licensed</strong> &#8211; This track was recommended to me by a listener and I love it. The Acousticals hail from Missoula, USA and you can find their music on Jamendo.</p>
+<p>06:22 &#8211; EndAnd &#8211; <a href="http://endand.bandcamp.com/track/commando">Commando</a> &#8211; <strong>All Rights Reserved</strong> &#8211; From Brooklyn, New York. Like the rocky sound and the production on this a lot.<br />
+&#8212;&#8212;-<br />
+09:55 &#8211; <a href="http://soundcloud.com/avsinger">AV</a> &#8211; Plan C (Rhaft remix) &#8211; <strong>License Unknown</strong> &#8211; Oui! French electro with Rap/Spoken word over it. That’s something different isn’t it?</p>
+<p>18:45 &#8211; <a href="http://www.burningshapes.com/">Burning Shapes</a> &#8211; Someone Else’s Words &#8211; <strong>All Rights Reserved</strong> &#8211; This was emailed to me by someone involved with the band and I love it. Incredible production and a top song. Enjoy! There’s a album coming on Friendly Tribe records on October 1st.<br />
+&#8212;&#8212;-<br />
+22:05 &#8211; <a href="http://blogs.sf3am.com/neener/">Neener</a> &#8211; Gravitons &#8211; <strong>License Unknown</strong> &#8211; Sent to me by the artist himself Dan McKeown, who apparently is another programmer and Free Software lover.</p>
+<p>27:14 &#8211; <a href="http://www.myspace.com/alodjangoswingband">Alo Django</a> &#8211; <a href="http://www.jamendo.com/en/track/525992/how-high-the-moon-i-got-rhythm">How High The Moon / I Got Rhythm</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Spanish swing / Gypsy jazz band. Their stuff is available via Jamendo and many other places. The name must be a tribute to Django Reinhardt.<br />
+&#8212;&#8212;-<br />
+31:56 &#8211; <a href="http://suruhh.bandcamp.com/">Surahh</a> &#8211; Dutchman &#8211; <strong>All Rights Reserved</strong> &#8211; From her email &#8211; &#8220;My artist name is Suruhh and i&#8217;m from San Jose, CA (USA). I&#8217;ve just recently started recording music and already have a couple of songs up. Here&#8217;s a link to my website where the song i&#8217;m submitting can also be found: <a href="http://suruhh.bandcamp.com/">http://suruhh.bandcamp.com/</a> &#8221;</p>
+<p>38:07 &#8211; <a href="http://www.jediah.com/">Jediah</a> &#8211; <a href="http://www.jamendo.com/en/track/121469/everyone-is-fine">Everyone Is Fine</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; I picked this one up via Jamendo and I love the fuzzy, warm, positive sound of this tune. Find more information on their <a href="http://www.jediah.com/">website</a>.</p>
+<p><strong>LIVE SONG</strong> &#8211; “That’s Life”, a real classic most famously sung by Frank Sinatra. I love this song and it seemed to hit home for me recently. In the end I couldn&#8217;t remember most of the words and made 2 shambolic attempts at this song. Hopefully you still enjoy it.</p>
+<p>49:24 &#8211; <a href="http://www.slamjamz.com/artists/viewartist/131">½ Pint Of Son Of Bazerk</a> &#8211; <a href="http://www.slamjamz.com/music/viewdlsingle/526">She Got Game</a> &#8211; <strong>License Unknown</strong> &#8211; A new track from Chuck D’s online label SlamJamz. I’ve talked about the label many times in the past.</p>
+<p><strong>Supporters:</strong> <strong>Rustan Håkansson</strong>,<strong> Ken Fallon</strong>,<strong> Samuel Ross</strong> &amp; <strong>Eric Beyer</strong> all sent donations via Paypal. Thanks up! And a big THANK YOU to everyone who supported via Flattr. I couldn’t do this without out you so if you enjoy the show stick a tip in the jar and it won’t go to waste <img src='http://ratholeradio.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<p>57:03 &#8211; <a href="http://vulturekult.com/">Vulture Kult</a> &#8211; Electric Medication &#8211; License Unknown &#8211; A Canadian rock band with an awesome sound. The vocal reminds me or early Ozzy in places. Check them out.</p>
+<p><strong>Get In Touch: </strong>Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I&#8217;m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom.<strong> </strong></p>
+<h3><strong>Email all feedback and suggestions to &#8211; show AT ratholeradio.org</strong></h3>
+<h3>You can also find me on <a href="http://twitter.com/ratholeradio" target="_blank">Twitter</a> and <a href="http://identi.ca/ratholeradio" target="_blank">Identi.ca</a>. Like us <a href="http://facebook.com/ratholeradio" target="_blank">on Facebook</a> and &#8220;Plus&#8221; us on Google+</h3>
+<h3><strong>Next Live Show:</strong> Sunday Sept 16th &#8211; 9pm UK Time.</h3>
+<p>Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at <strong>irc.freenode.net </strong>the channel name is <strong>#ratholeradio</strong>. I don&#8217;t expect much to happen there in the weeks between shows, but if people want to hang around and chat you&#8217;re more than welcome. Don&#8217;t forget you can access the channel from a web browser by going to <strong><a href="http://webchat.freenode.net" target="_blank">webchat.freenode.net</a> </strong>and entering #ratholeradio in the channel text box. Take care till next time folks.</p>
+<p><strong>Subscribe to the show and get it delivered for free:</strong><a href="http://feeds2.feedburner.com/RatholeRadio" target="_blank"> Mp3 feed</a> &#8211; <a href="http://feeds2.feedburner.com/RatholeRadio-ogg" target="_blank">Ogg Feed</a> &#8211; <a href="itpc://feeds2.feedburner.com/RatholeRadio" target="_blank">iTunes</a></p>
+<p><strong>Music Sources and Licensing: </strong>A few of the tracks in this show are from the artists own personal websites and don&#8217;t contain licensing information. That&#8217;s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.</p>
+<p>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>.</p>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<ul>
+<li><strong>Association Of Music Podcasting:</strong>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>. Check out all the other great member shows.</li>
+<li><a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" alt="Creative Commons License" /></a> Rathole Radio by <a href="http://ratholeradio.org" rel="cc:attributionURL">Dan Lynch</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license">Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License</a>. Proud Member of The Association Of Music Podcasting &#8211; visit <a href="http://musicpodcasting.org" target="_blank"><strong>musicpodcasting.org</strong></a>for more details.</li>
+</ul>
+</div>
+ <p><a href="http://ratholeradio.org/?flattrss_redirect&amp;id=1216&amp;md5=cf502f8f65a02f02212c685047bde18e" title="Flattr" target="_blank"><img src="http://methoddan.webfactional.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://ratholeradio.org/2012/09/ep86/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/ratholeradio/RR086_09_09_2012.ogg" length="0" type="audio/ogg" />
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=20lb&amp;popout=1&amp;url=http%3A%2F%2Fratholeradio.org%2F2012%2F09%2Fep86%2F&amp;language=en_GB&amp;category=audio&amp;title=RatholeRadio+86+%26%238211%3B+9th+Sept+2012&amp;description=Download+Ogg+%26%238211%3B+Download+Mp3+A+very+overdue+and+slightly+chaotic+episode+this.+My+studio+mixer+died+in+the+last+week+and+messed+things+up+good+and+proper.+I+have...&amp;tags=blog" type="text/html" />
+<itunes:summary>Download Ogg – Download Mp3
+
+A very overdue and slightly chaotic episode this. My studio mixer died in the last week and messed things up good and proper. I have a temporary replacement until I can afford to get it fixed but I apologise for the delay. Delay aside I really enjoyed making this show and I hope you’ll enjoy listening.
+
+00:00 – The Acousticals – Sally Anne - CC BY-SA Licensed – This track was recommended to me by a listener and I love it. The Acousticals hail from Missoula, USA and you can find their music on Jamendo.
+06:22 – EndAnd – Commando – All Rights Reserved – From Brooklyn, New York. Like the rocky sound and the production on this a lot.
+——-
+09:55 – AV – Plan C (Rhaft remix) – License Unknown – Oui! French electro with Rap/Spoken word over it. That’s something different isn’t it?
+18:45 – Burning Shapes – Someone Else’s Words – All Rights Reserved – This was emailed to me by someone involved with the band and I love it. Incredible production and a top song. Enjoy! There’s a album coming on Friendly Tribe records on October 1st.
+——-
+22:05 – Neener – Gravitons – License Unknown – Sent to me by the artist himself Dan McKeown, who apparently is another programmer and Free Software lover.
+27:14 – Alo Django – How High The Moon / I Got Rhythm – CC BY-NC-SA Licensed – Spanish swing / Gypsy jazz band. Their stuff is available via Jamendo and many other places. The name must be a tribute to Django Reinhardt.
+——-
+31:56 – Surahh – Dutchman – All Rights Reserved – From her email – “My artist name is Suruhh and i’m from San Jose, CA (USA). I’ve just recently started recording music and already have a couple of songs up. Here’s a link to my website where the song i’m submitting can also be found: http://suruhh.bandcamp.com/ ”
+38:07 – Jediah – Everyone Is Fine – CC BY-NC-SA Licensed – I picked this one up via Jamendo and I love the fuzzy, warm, positive sound of this tune. Find more information on their website.
+LIVE SONG – “That’s Life”, a real classic most famously sung by Frank Sinatra. I love this song and it seemed to hit home for me recently. In the end I couldn’t remember most of the words and made 2 shambolic attempts at this song. Hopefully you still enjoy it.
+49:24 – ½ Pint Of Son Of Bazerk – She Got Game – License Unknown – A new track from Chuck D’s online label SlamJamz. I’ve talked about the label many times in the past.
+Supporters: Rustan Håkansson, Ken Fallon, Samuel Ross &amp; Eric Beyer all sent donations via Paypal. Thanks up! And a big THANK YOU to everyone who supported via Flattr. I couldn’t do this without out you so if you enjoy the show stick a tip in the jar and it won’t go to waste  
+57:03 – Vulture Kult – Electric Medication – License Unknown – A Canadian rock band with an awesome sound. The vocal reminds me or early Ozzy in places. Check them out.
+Get In Touch: Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I’m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom. 
+Email all feedback and suggestions to – show AT ratholeradio.org
+You can also find me on Twitter and Identi.ca. Like us on Facebook and “Plus” us on Google+
+Next Live Show: Sunday Sept 16th – 9pm UK Time.
+Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at irc.freenode.net the channel name is #ratholeradio. I don’t expect much to happen there in the weeks between shows, but if people want to hang around and chat you’re more than welcome. Don’t forget you can access the channel from a web browser by going to webchat.freenode.net and entering #ratholeradio in the [...]</itunes:summary>
+<itunes:subtitle>Download Ogg – Download Mp3 A very overdue and slightly chaotic episode this. My studio mixer died in ...&lt;a href=&quot;http://ratholeradio.org/2012/09/ep86/&quot; class=&quot;read-more&quot;&gt;Continue Reading&lt;/a&gt;</itunes:subtitle>
+<itunes:explicit>yes</itunes:explicit>
+	</item>
+		<item>
+		<title>RatholeRadio 85 &#8211; 26th Aug 2012</title>
+		<link>http://ratholeradio.org/2012/08/ep85/</link>
+		<comments>http://ratholeradio.org/2012/08/ep85/#comments</comments>
+		<pubDate>Mon, 27 Aug 2012 13:42:57 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[live music]]></category>
+
+		<guid isPermaLink="false">http://ratholeradio.org/?p=1213</guid>
+		<description><![CDATA[Download Ogg &#8211; Download Mp3 A different kind of show this time. Shorter for a start, but I ...<a href="http://ratholeradio.org/2012/08/ep85/" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://traffic.libsyn.com/ratholeradio/RR085_26_08_2012.ogg" target="_blank">Download Ogg</a> &#8211; <a href="http://traffic.libsyn.com/ratholeradio/RR085_26_08_2012.mp3" target="_blank">Download Mp3</a></strong></p>
+
+<p>A different kind of show this time. Shorter for a start, but I hope you won&#8217;t hold that against me. In the wake of the monster that is <a href="http://oggcamp.org" target="_blank">OggCamp</a> and the amount of work it needed, I wasn&#8217;t able to pull together a normal show this week. Instead I grabbed my guitar and played a few original songs. I hope you&#8217;ll enjoy it and normal service will be resumed next time.<br />
+<span id="more-1213"></span></p>
+<p>02:29 &#8211; <a href="http://danlynch.org" target="_blank">Dan Lynch</a> &#8211; One More Try &#8211; <strong>CC BY-NC-SA Licensed</strong></p>
+<p>06:38 &#8211; <a href="http://danlynch.org" target="_blank">Dan Lynch</a> &#8211; Medicine Man &#8211; <strong>CC BY-NC-SA Licensed</strong></p>
+<p>10:55 &#8211; <a href="http://danlynch.org" target="_blank">Dan Lynch</a> &#8211; Trouble In Egypt -  <strong>CC BY-NC-SA Licensed</strong></p>
+<p>15:15 &#8211; <a href="http://danlynch.org" target="_blank">Dan Lynch</a> &#8211; The Elephant In The Room - <strong>CC BY-NC-SA Licensed</strong></p>
+<p>Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.</p>
+<p><strong>Get In Touch: </strong>Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I&#8217;m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom.<strong> </strong></p>
+<h3><strong>Email all feedback and suggestions to &#8211; show AT ratholeradio.org</strong></h3>
+<h3>You can also find me on <a href="http://twitter.com/ratholeradio" target="_blank">Twitter</a> and <a href="http://identi.ca/ratholeradio" target="_blank">Identi.ca</a>. Like us <a href="http://facebook.com/ratholeradio" target="_blank">on Facebook</a>.</h3>
+<h3><strong>Next Live Show:</strong> Next live show <strong>Sept 2nd</strong>, 9pm UK.</h3>
+<p>Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at <strong>irc.freenode.net </strong>the channel name is <strong>#ratholeradio</strong>. I don&#8217;t expect much to happen there in the weeks between shows, but if people want to hang around and chat you&#8217;re more than welcome. Don&#8217;t forget you can access the channel from a web browser by going to <strong><a href="http://webchat.freenode.net" target="_blank">webchat.freenode.net</a> </strong>and entering #ratholeradio in the channel text box. Take care till next time folks.</p>
+<p><strong>Subscribe to the show and get it delivered for free:</strong><a href="http://feeds2.feedburner.com/RatholeRadio" target="_blank"> Mp3 feed</a> &#8211; <a href="http://feeds2.feedburner.com/RatholeRadio-ogg" target="_blank">Ogg Feed</a> &#8211; <a href="itpc://feeds2.feedburner.com/RatholeRadio" target="_blank">iTunes</a></p>
+<p><strong>Music Sources and Licensing: </strong>A few of the tracks in this show are from the artists own personal websites and don&#8217;t contain licensing information. That&#8217;s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.</p>
+<p>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>.</p>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<ul>
+<li><strong>Association Of Music Podcasting:</strong>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>. Check out all the other great member shows.</li>
+<li><a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" alt="Creative Commons License" /></a> Rathole Radio by <a href="http://ratholeradio.org" rel="cc:attributionURL">Dan Lynch</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license">Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License</a>. Proud Member of The Association Of Music Podcasting &#8211; visit <a href="http://musicpodcasting.org" target="_blank"><strong>musicpodcasting.org</strong></a>for more details.</li>
+</ul>
+</div>
+ <p><a href="http://ratholeradio.org/?flattrss_redirect&amp;id=1213&amp;md5=cb9dbfacf400bb3640bbbd880f825f1e" title="Flattr" target="_blank"><img src="http://methoddan.webfactional.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://ratholeradio.org/2012/08/ep85/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/ratholeradio/RR085_26_08_2012.ogg" length="0" type="audio/ogg" />
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=20lb&amp;popout=1&amp;url=http%3A%2F%2Fratholeradio.org%2F2012%2F08%2Fep85%2F&amp;language=en_GB&amp;category=audio&amp;title=RatholeRadio+85+%26%238211%3B+26th+Aug+2012&amp;description=Download+Ogg+%26%238211%3B+Download+Mp3+A+different+kind+of+show+this+time.+Shorter+for+a+start%2C+but+I+hope+you+won%26%238217%3Bt+hold+that+against+me.+In+the+wake+of+the...&amp;tags=blog" type="text/html" />
+<itunes:summary>Download Ogg – Download Mp3
+
+A different kind of show this time. Shorter for a start, but I hope you won’t hold that against me. In the wake of the monster that is OggCamp and the amount of work it needed, I wasn’t able to pull together a normal show this week. Instead I grabbed my guitar and played a few original songs. I hope you’ll enjoy it and normal service will be resumed next time.
+
+02:29 – Dan Lynch – One More Try – CC BY-NC-SA Licensed
+06:38 – Dan Lynch – Medicine Man – CC BY-NC-SA Licensed
+10:55 – Dan Lynch – Trouble In Egypt -  CC BY-NC-SA Licensed
+15:15 – Dan Lynch – The Elephant In The Room - CC BY-NC-SA Licensed
+Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.
+Get In Touch: Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I’m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom. 
+Email all feedback and suggestions to – show AT ratholeradio.org
+You can also find me on Twitter and Identi.ca. Like us on Facebook.
+Next Live Show: Next live show Sept 2nd, 9pm UK.
+Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at irc.freenode.net the channel name is #ratholeradio. I don’t expect much to happen there in the weeks between shows, but if people want to hang around and chat you’re more than welcome. Don’t forget you can access the channel from a web browser by going to webchat.freenode.net and entering #ratholeradio in the channel text box. Take care till next time folks.
+Subscribe to the show and get it delivered for free: Mp3 feed – Ogg Feed – iTunes
+Music Sources and Licensing: A few of the tracks in this show are from the artists own personal websites and don’t contain licensing information. That’s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.
+Rathole Radio is a proud member of the Association Of Music Podcasting.
+
+
+Association Of Music Podcasting:Rathole Radio is a proud member of the Association Of Music Podcasting. Check out all the other great member shows.
+ Rathole Radio by Dan Lynch is licensed under a Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License. Proud Member of The Association Of Music Podcasting – visit musicpodcasting.orgfor more details.
+
+
+</itunes:summary>
+<itunes:subtitle>Download Ogg – Download Mp3 A different kind of show this time. Shorter for a start, but I ...&lt;a href=&quot;http://ratholeradio.org/2012/08/ep85/&quot; class=&quot;read-more&quot;&gt;Continue Reading&lt;/a&gt;</itunes:subtitle>
+	</item>
+		<item>
+		<title>RatholeRadio 84 &#8211; 5th Aug 2012</title>
+		<link>http://ratholeradio.org/2012/08/ep84/</link>
+		<comments>http://ratholeradio.org/2012/08/ep84/#comments</comments>
+		<pubDate>Fri, 10 Aug 2012 00:03:22 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">http://ratholeradio.org/?p=1210</guid>
+		<description><![CDATA[Download Ogg &#8211; Download Mp3 The last Rathole Radio before all the OggCamp madness in takes over Liverpool ...<a href="http://ratholeradio.org/2012/08/ep84/" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://traffic.libsyn.com/ratholeradio/RR084_05_08_2012.ogg" target="_blank">Download Ogg</a> &#8211; <a href="http://traffic.libsyn.com/ratholeradio/RR084_05_08_2012.mp3" target="_blank">Download Mp3</a></strong></p>
+
+<p>The last Rathole Radio before all the OggCamp madness in takes over Liverpool on the 18th and 19th. I played a wide selection of tracks, featured quite a few Liverpool artists, talked a lot and had fun doing it. Enjoy.<br />
+<span id="more-1210"></span>00:00 &#8211; <a href="http://www.reverbnation.com/louislinggandthebombs">Louis Lingg and the Bombs</a> &#8211; <a href="http://www.jamendo.com/en/track/539336/going-nowhere-fast">Going Nowhere Fast</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; I really like this band and was recently reminded of them. I played a track way back on episode 10 almost 3 years ago now. Time flies hey. Their energy is fantastic and their fast cyber punk sound really gets me going.</p>
+<p>06:16 &#8211; <a href="http://facebook.com/thecorinthians">The Corinthians</a> &#8211; <a href="http://soundcloud.com/manchestersound/the-penguins">Penguins</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Friend of the show, I realised I haven’t played them in a while. They did their BBC session for Radio Merseyside recently. Glad to seem them doing well. Keep it up boys! Rah in the IRC channel tells us this is a cover of Penguin Cafe Orchestra. Check it out &#8211; http://www.youtube.com/watch?v=yJg1NNyke2E</p>
+<p>12:20 &#8211; <a href="http://www.facebook.com/rufushok">Rufus Hok</a> &#8211; <a href="http://soundcloud.com/rufus-hok/world-on-my-shoulders-by-rufus">World On My Shoulders</a> &#8211; <strong>License Unknown</strong> &#8211; Rufus is another Liverpool artist I met a little while ago. He’s got a great bluesy voice and he’s always gigging around town. He’s got a new album out soon and he’s well worth checking out. This is an older track off Sound Cloud.</p>
+<p>18:40 &#8211; <a href="http://www.facebook.com/Shoes4Brakes">Shoes4Brakes</a> &#8211; Minnesota &#8211; <strong>License Unknown</strong> -<br />
+<a href="http://soundcloud.com/gareth-jones-17">soundcloud.com/gareth-jones-17</a></p>
+<p>22:00 &#8211; <a href="http://twitter.com/johnny_sands">Johnny Sands</a> &#8211; <a href="http://soundcloud.com/johnnysands/leave-me-alone">Leave Me Alone</a> &#8211; <strong>License Unknown</strong> &#8211; Johnny is a good friend and well known around Liverpool. He runs the open mic night at LEAF on Tuesdays.</p>
+<p>31:19 &#8211; <a href="http://theknieveldead.com/">The Kinevel Dead</a> &#8211; Knife &#8211; <strong>License Unknown</strong> &#8211; I was tipped off to this by friend of the show Joe Ressington. This is a friend of his and he plays drums on the tracks, plus mixed them. He keeps busy that boy. This track is off the new album “And We Sleep”. There’s a launch party for that in London on Saturday August 25th at The Dublin Castle in Camden. Get along and enjoy the music you if you can.</p>
+<p>33:45 &#8211; <a href="http://robertbatley.com/stonepony/">Stone Pony</a> &#8211; <a href="http://stonepony.bandcamp.com/track/across-town">Across Town</a> &#8211; <strong>All Rights Reserved</strong> &#8211; This was sent to me ages ago by fellow AMP member Justin Wayne. It’s taken a while to get to the top of my listening queue but I’m glad it did. Stone Pony are a London band well worth checking out. This is taken from the 2012 album Rabble Rock Radio. You can get their music from Bandcamp.</p>
+<p>40:58 &#8211; <a href="http://www.abrahamcastellon.com/">Abraham Castellon</a> &#8211; <a href="http://www.jamendo.com/en/track/465652/nor-de-tu-amor">Nor De Tu Amor</a> &#8211; <strong>CC BY-SA Licensed</strong> &#8211; I discovered this Spanish artist on Jamendo radio and I thought it might a slightly more summer vibe for those suffering crappy weather link the UK. He hails from Zaragoza and I have no idea what the song means. Something about love (amor). Isn’t it always?</p>
+<p>50:18 &#8211; <a href="http://www.myspace.com/thewindwhistles">The Wind Whistles</a> &#8211; <a href="http://www.jamendo.com/en/track/143782/gold-fever">Gold Fever</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; I played this band on the last show after discovering them on Jamendo radio. It seems I was behind the times though, Dave &amp; Caroline from The Bugcast submitted this to AMPed and found them long before I.</p>
+<p>60:00 &#8211; <a href="http://www.facebook.com/pages/Jonathan-Dimmel/116415821731426">Jonathan Dimmel</a> &#8211; <a href="http://www.jamendo.com/en/track/938329/you-ve-got-it">You Got It</a> &#8211; <strong>CC BY-SA Licensed</strong> &#8211; Another track I heard via Jamendo radio. I love the sound of this slow melodic rock song. The production is also excellent. Jonathan hails from Nashville, Tenesse so he’s in the right place for music. You can find a lot of his music on Jamendo.</p>
+<p><strong>Donations:</strong><br />
+Michael Hodgins, Samuel Ross, Ciaran G, UltrAnalog, Armin Krauss, Kevan V, Evgeny Kuznetsov.</p>
+<p><strong>Flattr:</strong><br />
+BerndSch, mansdell, Kevie, JohanV, diablomarcus, expatpaul, dje, eksortso, gregoriosw and mackrauss.</p>
+<p>Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.</p>
+<p><strong>Get In Touch: </strong>Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I&#8217;m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom.<strong> </strong></p>
+<h3><strong>Email all feedback and suggestions to &#8211; show AT ratholeradio.org</strong></h3>
+<h3>You can also find me on <a href="http://twitter.com/ratholeradio" target="_blank">Twitter</a> and <a href="http://identi.ca/ratholeradio" target="_blank">Identi.ca</a>. Like us <a href="http://facebook.com/ratholeradio" target="_blank">on Facebook</a>.</h3>
+<h3><strong>Next Live Show:</strong> Next episode podcast only sorry.</h3>
+<p>Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at <strong>irc.freenode.net </strong>the channel name is <strong>#ratholeradio</strong>. I don&#8217;t expect much to happen there in the weeks between shows, but if people want to hang around and chat you&#8217;re more than welcome. Don&#8217;t forget you can access the channel from a web browser by going to <strong><a href="http://webchat.freenode.net" target="_blank">webchat.freenode.net</a> </strong>and entering #ratholeradio in the channel text box. Take care till next time folks.</p>
+<p><strong>Subscribe to the show and get it delivered for free:</strong><a href="http://feeds2.feedburner.com/RatholeRadio" target="_blank"> Mp3 feed</a> &#8211; <a href="http://feeds2.feedburner.com/RatholeRadio-ogg" target="_blank">Ogg Feed</a> &#8211; <a href="itpc://feeds2.feedburner.com/RatholeRadio" target="_blank">iTunes</a></p>
+<p><strong>Music Sources and Licensing: </strong>A few of the tracks in this show are from the artists own personal websites and don&#8217;t contain licensing information. That&#8217;s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.</p>
+<p>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>.</p>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<ul>
+<li><strong>Association Of Music Podcasting:</strong>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>. Check out all the other great member shows.</li>
+<li><a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" alt="Creative Commons License" /></a> Rathole Radio by <a href="http://ratholeradio.org" rel="cc:attributionURL">Dan Lynch</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license">Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License</a>. Proud Member of The Association Of Music Podcasting &#8211; visit <a href="http://musicpodcasting.org" target="_blank"><strong>musicpodcasting.org</strong></a>for more details.</li>
+</ul>
+</div>
+ <p><a href="http://ratholeradio.org/?flattrss_redirect&amp;id=1210&amp;md5=e59e653d81540eec0cbdce4f01e269f6" title="Flattr" target="_blank"><img src="http://methoddan.webfactional.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://ratholeradio.org/2012/08/ep84/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/ratholeradio/RR084_05_08_2012.ogg" length="0" type="audio/ogg" />
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=20lb&amp;popout=1&amp;url=http%3A%2F%2Fratholeradio.org%2F2012%2F08%2Fep84%2F&amp;language=en_GB&amp;category=audio&amp;title=RatholeRadio+84+%26%238211%3B+5th+Aug+2012&amp;description=Download+Ogg+%26%238211%3B+Download+Mp3+The+last+Rathole+Radio+before+all+the+OggCamp+madness+in+takes+over+Liverpool+on+the+18th+and+19th.+I+played+a+wide+selection+of+tracks%2C...&amp;tags=blog" type="text/html" />
+<itunes:summary>Download Ogg – Download Mp3
+
+The last Rathole Radio before all the OggCamp madness in takes over Liverpool on the 18th and 19th. I played a wide selection of tracks, featured quite a few Liverpool artists, talked a lot and had fun doing it. Enjoy.
+00:00 – Louis Lingg and the Bombs – Going Nowhere Fast – CC BY-NC-SA Licensed – I really like this band and was recently reminded of them. I played a track way back on episode 10 almost 3 years ago now. Time flies hey. Their energy is fantastic and their fast cyber punk sound really gets me going.
+06:16 – The Corinthians – Penguins – CC BY-NC-SA Licensed – Friend of the show, I realised I haven’t played them in a while. They did their BBC session for Radio Merseyside recently. Glad to seem them doing well. Keep it up boys! Rah in the IRC channel tells us this is a cover of Penguin Cafe Orchestra. Check it out – http://www.youtube.com/watch?v=yJg1NNyke2E
+12:20 – Rufus Hok – World On My Shoulders – License Unknown – Rufus is another Liverpool artist I met a little while ago. He’s got a great bluesy voice and he’s always gigging around town. He’s got a new album out soon and he’s well worth checking out. This is an older track off Sound Cloud.
+18:40 – Shoes4Brakes – Minnesota – License Unknown -
+soundcloud.com/gareth-jones-17
+22:00 – Johnny Sands – Leave Me Alone – License Unknown – Johnny is a good friend and well known around Liverpool. He runs the open mic night at LEAF on Tuesdays.
+31:19 – The Kinevel Dead – Knife – License Unknown – I was tipped off to this by friend of the show Joe Ressington. This is a friend of his and he plays drums on the tracks, plus mixed them. He keeps busy that boy. This track is off the new album “And We Sleep”. There’s a launch party for that in London on Saturday August 25th at The Dublin Castle in Camden. Get along and enjoy the music you if you can.
+33:45 – Stone Pony – Across Town – All Rights Reserved – This was sent to me ages ago by fellow AMP member Justin Wayne. It’s taken a while to get to the top of my listening queue but I’m glad it did. Stone Pony are a London band well worth checking out. This is taken from the 2012 album Rabble Rock Radio. You can get their music from Bandcamp.
+40:58 – Abraham Castellon – Nor De Tu Amor – CC BY-SA Licensed – I discovered this Spanish artist on Jamendo radio and I thought it might a slightly more summer vibe for those suffering crappy weather link the UK. He hails from Zaragoza and I have no idea what the song means. Something about love (amor). Isn’t it always?
+50:18 – The Wind Whistles – Gold Fever – CC BY-NC-SA Licensed – I played this band on the last show after discovering them on Jamendo radio. It seems I was behind the times though, Dave &amp; Caroline from The Bugcast submitted this to AMPed and found them long before I.
+60:00 – Jonathan Dimmel – You Got It – CC BY-SA Licensed – Another track I heard via Jamendo radio. I love the sound of this slow melodic rock song. The production is also excellent. Jonathan hails from Nashville, Tenesse so he’s in the right place for music. You can find a lot of his music on Jamendo.
+Donations:
+Michael Hodgins, Samuel Ross, Ciaran G, UltrAnalog, Armin Krauss, Kevan V, Evgeny Kuznetsov.
+Flattr:
+BerndSch, mansdell, Kevie, JohanV, diablomarcus, expatpaul, dje, eksortso, gregoriosw and mackrauss.
+Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.
+Get In Touch: Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I’m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom. 
+Email all feedback and suggestions to – show AT ratholeradio.org
+You can also [...]</itunes:summary>
+<itunes:subtitle>Download Ogg – Download Mp3 The last Rathole Radio before all the OggCamp madness in takes over Liverpool ...&lt;a href=&quot;http://ratholeradio.org/2012/08/ep84/&quot; class=&quot;read-more&quot;&gt;Continue Reading&lt;/a&gt;</itunes:subtitle>
+	</item>
+		<item>
+		<title>RatholeRadio 83 &#8211; 22nd July 2012</title>
+		<link>http://ratholeradio.org/2012/07/ep83/</link>
+		<comments>http://ratholeradio.org/2012/07/ep83/#comments</comments>
+		<pubDate>Wed, 25 Jul 2012 11:41:44 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Regular Show]]></category>
+
+		<guid isPermaLink="false">http://ratholeradio.org/?p=1202</guid>
+		<description><![CDATA[Download Ogg &#8211; Download Mp3 We&#8217;re back with another Rathole Radio. This week the studio computer died and ...<a href="http://ratholeradio.org/2012/07/ep83/" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://traffic.libsyn.com/ratholeradio/RR083_22_07_2012.ogg" target="_blank">Download Ogg</a> &#8211; <a href="http://traffic.libsyn.com/ratholeradio/RR083_22_07_2012.mp3" target="_blank">Download Mp3</a></strong></p>
+
+<p>We&#8217;re back with another Rathole Radio. This week the studio computer died and I was struggling to keep the show on the rails but I managed. I didn&#8217;t have any notes so had no clue who the artists were or any information about them. Normal service resumed <img src='http://ratholeradio.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /><br />
+<span id="more-1202"></span></p>
+<p>00:00 &#8211; <a href="http://www.fhernando.com/">Fhernando</a> &#8211; <a href="http://www.jamendo.com/en/track/944721/ride-my-tempo">Ride My Tempo</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; A funky house track from this Mexican DJ. I heard this via Janemdo radio and decided to share it with you all.</p>
+<p>06:39 &#8211; <a href="http://bryyn.com">Bryyn</a> &#8211; <a href="http://www.jamendo.com/en/track/725574/giraffe">Giraffe</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; I’ve played some tunes by Swiss-based American artist Bryyn before. He’s a great songwriter and producer.</p>
+<p>09:45 &#8211; <a href="http://www.thewindwhistles.com/">The Wind Whistles</a> &#8211; <a href="http://www.jamendo.com/en/track/743205/turtle">Turtle</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Don&#8217;t have much info on this band as their website wouldn&#8217;t load at the time of writing. Sounds cool though I&#8217;m sure you&#8217;ll agree.</p>
+<p>14:56 – <a href="http://www.mcgazz.co.uk/panthersolo/">Panther Solo</a> – <a href="http://www.mcgazz.co.uk/panthersolo/mp3/08_participant.mp3">Participant!</a>  - <strong>CC BY-NC-SA Licensed</strong> – This was sent to me by friend of the show Adrian McEwen and it’s actually by a mutual acquaintance of ours. Check out Paul’s music at the website and grab the album Buff Low Noise, it’s very good.</p>
+<p>18:01 &#8211; <a href="http://sean-fournier.com/braceyourself/">Sean Fournier</a> &#8211; <a href="http://www.jamendo.com/en/track/945769/king-of-the-world">King Of The World</a> &#8211; <strong>CC BY-SA Licensed</strong> &#8211; Sean is a bit of a legend in the Creative Commons music world. A truly independent artist. His song “Broken Stereo” is one of the most played on Jamendo.</p>
+<p>23:54 &#8211; Mansur Samba Trio &#8211; <a href="http://www.jamendo.com/en/track/380615/santa-teresa">Santa Teresa</a> -<strong> CC BY-NC-SA Licensed</strong> &#8211; A slice of samba in an attempt to make you feel like it’s summer.</p>
+<p>28:18 &#8211; <a href="http://amandapalmer.net">Amanda Palmer</a> &#8211; <a href="http://music.amandapalmer.net/track/ukulele-anthem">Ukulele Anthem</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Thanks to listener Cor Ninaber for suggesting this track. Amanda Palmer needs no introduction. Enjoy the song.</p>
+<p>39:06 &#8211; <a href="http://www.chrismerrittmusic.com/blog/">Chris Merritt</a> &#8211; <a href="http://www.jamendo.com/en/track/578682/wire">Wire</a> &#8211; <strong>CC BY-ND Licensed</strong> &#8211; I don’t know a massive amount about this artist but I did find <a href="http://www.chrismerrittmusic.com/blog/">his blog</a>. I discovered this track via Jamendo radio.</p>
+<p>45:51 &#8211; <a href="http://20lb.net">20lb Sounds</a> &#8211; Change (live acoustic) &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Another live acoustic track from my band 20lb Sounds. This was recorded at our session for <a href="http://www.vizeasound.co.uk/">Vizea Sound</a> a few weeks back.</p>
+<p>53:57 -<a href="http://en.wikipedia.org/wiki/And_So_I_Watch_You_From_Afar"> And So I Watch You From Afar</a> &#8211; <a href="http://asiwyfa.bandcamp.com/track/search-party-animal">Search:Party:Animal</a> &#8211; <strong>All Rights Reserved</strong> &#8211; A great piece of instrumental metal from these 3 Irish boys. I enjoyed this a lot.</p>
+<p>A big thank you to everyone who has sent donations to support the show and everyone who clicked the Flattr button. I couldn&#8217;t do this without you!</p>
+<p>Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.</p>
+<p><strong>Get In Touch: </strong>Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I&#8217;m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom.<strong> </strong></p>
+<h3><strong>Email all feedback and suggestions to &#8211; show AT ratholeradio.org</strong></h3>
+<h3>You can also find me on <a href="http://twitter.com/ratholeradio" target="_blank">Twitter</a> and <a href="http://identi.ca/ratholeradio" target="_blank">Identi.ca</a>. Like us <a href="http://facebook.com/ratholeradio" target="_blank">on Facebook</a>.</h3>
+<h3><strong>Next Live Show:</strong> Sunday August 5th 2012 at 9:00pm UK time</h3>
+<p>Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at <strong>irc.freenode.net </strong>the channel name is <strong>#ratholeradio</strong>. I don&#8217;t expect much to happen there in the weeks between shows, but if people want to hang around and chat you&#8217;re more than welcome. Don&#8217;t forget you can access the channel from a web browser by going to <strong><a href="http://webchat.freenode.net" target="_blank">webchat.freenode.net</a> </strong>and entering #ratholeradio in the channel text box. Take care till next time folks.</p>
+<p><strong>Subscribe to the show and get it delivered for free:</strong><a href="http://feeds2.feedburner.com/RatholeRadio" target="_blank"> Mp3 feed</a> &#8211; <a href="http://feeds2.feedburner.com/RatholeRadio-ogg" target="_blank">Ogg Feed</a> &#8211; <a href="itpc://feeds2.feedburner.com/RatholeRadio" target="_blank">iTunes</a></p>
+<p><strong>Music Sources and Licensing: </strong>A few of the tracks in this show are from the artists own personal websites and don&#8217;t contain licensing information. That&#8217;s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.</p>
+<p>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>.</p>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<ul>
+<li><strong>Association Of Music Podcasting:</strong>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>. Check out all the other great member shows.</li>
+<li><a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" alt="Creative Commons License" /></a> Rathole Radio by <a href="http://ratholeradio.org" rel="cc:attributionURL">Dan Lynch</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license">Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License</a>. Proud Member of The Association Of Music Podcasting &#8211; visit <a href="http://musicpodcasting.org" target="_blank"><strong>musicpodcasting.org</strong></a>for more details.</li>
+</ul>
+</div>
+ <p><a href="http://ratholeradio.org/?flattrss_redirect&amp;id=1202&amp;md5=f1b918bef85ccc7c2a3caa72c2614bb6" title="Flattr" target="_blank"><img src="http://methoddan.webfactional.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://ratholeradio.org/2012/07/ep83/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/ratholeradio/RR083_22_07_2012.ogg" length="0" type="audio/ogg" />
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=20lb&amp;popout=1&amp;url=http%3A%2F%2Fratholeradio.org%2F2012%2F07%2Fep83%2F&amp;language=en_GB&amp;category=audio&amp;title=RatholeRadio+83+%26%238211%3B+22nd+July+2012&amp;description=Download+Ogg+%26%238211%3B+Download+Mp3+We%26%238217%3Bre+back+with+another+Rathole+Radio.+This+week+the+studio+computer+died+and+I+was+struggling+to+keep+the+show+on+the+rails+but+I...&amp;tags=blog" type="text/html" />
+<itunes:summary>Download Ogg – Download Mp3
+
+We’re back with another Rathole Radio. This week the studio computer died and I was struggling to keep the show on the rails but I managed. I didn’t have any notes so had no clue who the artists were or any information about them. Normal service resumed 
+
+00:00 – Fhernando – Ride My Tempo – CC BY-NC-SA Licensed – A funky house track from this Mexican DJ. I heard this via Janemdo radio and decided to share it with you all.
+06:39 – Bryyn – Giraffe – CC BY-NC-SA Licensed – I’ve played some tunes by Swiss-based American artist Bryyn before. He’s a great songwriter and producer.
+09:45 – The Wind Whistles – Turtle – CC BY-NC-SA Licensed – Don’t have much info on this band as their website wouldn’t load at the time of writing. Sounds cool though I’m sure you’ll agree.
+14:56 – Panther Solo – Participant!  - CC BY-NC-SA Licensed – This was sent to me by friend of the show Adrian McEwen and it’s actually by a mutual acquaintance of ours. Check out Paul’s music at the website and grab the album Buff Low Noise, it’s very good.
+18:01 – Sean Fournier – King Of The World – CC BY-SA Licensed – Sean is a bit of a legend in the Creative Commons music world. A truly independent artist. His song “Broken Stereo” is one of the most played on Jamendo.
+23:54 – Mansur Samba Trio – Santa Teresa - CC BY-NC-SA Licensed – A slice of samba in an attempt to make you feel like it’s summer.
+28:18 – Amanda Palmer – Ukulele Anthem – CC BY-NC-SA Licensed – Thanks to listener Cor Ninaber for suggesting this track. Amanda Palmer needs no introduction. Enjoy the song.
+39:06 – Chris Merritt – Wire – CC BY-ND Licensed – I don’t know a massive amount about this artist but I did find his blog. I discovered this track via Jamendo radio.
+45:51 – 20lb Sounds – Change (live acoustic) – CC BY-NC-SA Licensed – Another live acoustic track from my band 20lb Sounds. This was recorded at our session for Vizea Sound a few weeks back.
+53:57 - And So I Watch You From Afar – Search:Party:Animal – All Rights Reserved – A great piece of instrumental metal from these 3 Irish boys. I enjoyed this a lot.
+A big thank you to everyone who has sent donations to support the show and everyone who clicked the Flattr button. I couldn’t do this without you!
+Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.
+Get In Touch: Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I’m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom. 
+Email all feedback and suggestions to – show AT ratholeradio.org
+You can also find me on Twitter and Identi.ca. Like us on Facebook.
+Next Live Show: Sunday August 5th 2012 at 9:00pm UK time
+Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at irc.freenode.net the channel name is #ratholeradio. I don’t expect much to happen there in the weeks between shows, but if people want to hang around and chat you’re more than welcome. Don’t forget you can access the channel from a web browser by going to webchat.freenode.net and entering #ratholeradio in the channel text box. Take care till next time folks.
+Subscribe to the show and get it delivered for free: Mp3 feed – Ogg Feed – iTunes
+Music Sources and Licensing: A few of the tracks in this show are from the artists own personal websites and don’t contain licensing information. That’s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.
+Rathole Radio is a proud member of the [...]</itunes:summary>
+<itunes:subtitle>Download Ogg – Download Mp3 We’re back with another Rathole Radio. This week the studio computer died and ...&lt;a href=&quot;http://ratholeradio.org/2012/07/ep83/&quot; class=&quot;read-more&quot;&gt;Continue Reading&lt;/a&gt;</itunes:subtitle>
+	</item>
+		<item>
+		<title>RatholeRadio 82 &#8211; 8th July 2012</title>
+		<link>http://ratholeradio.org/2012/07/ep82/</link>
+		<comments>http://ratholeradio.org/2012/07/ep82/#comments</comments>
+		<pubDate>Wed, 11 Jul 2012 22:18:56 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Regular Show]]></category>
+
+		<guid isPermaLink="false">http://ratholeradio.org/?p=1192</guid>
+		<description><![CDATA[Download Ogg &#8211; Download Mp3 Time for another slice of Rathole Radio. Broadcast live on Sunday July 8th ...<a href="http://ratholeradio.org/2012/07/ep82/" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://traffic.libsyn.com/ratholeradio/RR082_08_07_2012.ogg" target="_blank">Download Ogg</a> &#8211; <a href="http://traffic.libsyn.com/ratholeradio/RR082_08_07_2012.mp3" target="_blank">Download Mp3</a></strong></p>
+
+<p>Time for another slice of Rathole Radio. Broadcast live on Sunday July 8th 2012, this is episode 82 in the series. It features the usual mixture of eclectic music and a healthy dose of incoherent rambling from yours truly. I hope you enjoy it.<br />
+<span id="more-1192"></span></p>
+<ul>
+<li>00:00 &#8211; <a href="http://www.myspace.com/kursed3">Kursed</a> &#8211; <a href="http://www.jamendo.com/en/track/828617">Perfect mean</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Another track from French rockers Kursed. I’ve played them before but not for a long time. I was reminded of them by CC Hits recently. Very cool sound.</li>
+</ul>
+<ul>
+<li>07:10 &#8211; <a href="http://itsdanbull.com/">Dan Bull</a> &#8211; Death Of ACTA &#8211; <strong>CC BY Licensed</strong> &#8211; The ever popular protest rapper who attempted a Creative Commons assault on the UK top 40 not so long ago. This song was in a collection of his old stuff and it <a href="http://www.openrightsgroup.org/blog/2012/acta-you-won">seemed appropriate this week</a>.</li>
+<li>10:41 &#8211; <a href="http://www.annadagmar.com/">Anna Dagmar</a> &#8211; Satellite &#8211; <strong>License Unknown</strong> &#8211; Picked up from the always wonderful <a href="http://www.thebugcast.org/">Bugcast</a> with Dave &amp; Caroline. I bought this from CD Baby and there’s a load of Anna’s albums on there to check out.</li>
+</ul>
+<ul>
+<li>21:44 &#8211; <a href="http://www.liverpoolsoundcity.co.uk/alexhulme">Alex Hulme</a> &#8211; Sparks &#8211; <strong>License Unknown</strong> &#8211; Saw Alex live again in Liverpool this week and he really is excellent. Nice guy too, we had a chat after his gig at the Vizea Sounds opening party. He game me a CD of his <a href="http://soundcloud.com/brad-cityscape/sets/alex-hulme-the-start-ep">new EP on Cityscape Records</a> that he’d intended to post. Personal delivery, how nice.</li>
+<li>23:53 &#8211; <a href="http://www.jamendo.com/artist/Diablo_Swing_Orchestra_%282%29">Diablo Swing Orchestra</a> &#8211; <a href="http://www.jamendo.com/en/track/391010/heroines">Heroines</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Sweden’s finest operatic rockers at their best. Their style is hard to define, just the way I like things. I’ve played them many times on the show but so far not this song I don’t think.</li>
+</ul>
+<ul>
+<li>35:02 &#8211; Heifervescent &#8211; <a href="http://www.jamendo.com/en/track/945613/let-this-monkey-go">Let This Monkey Go</a> &#8211; <strong>CC BY-NC-ND Licensed</strong> &#8211; A new album has just been released and I’ve featured this artist many times before. Check it out, the album is excellent. There’s a 7 track taster on Jamendo and the full thing is available to buy.</li>
+<li>39:32 &#8211; <a href="http://www.tenpennyjoke.com/">Tenpenny Joke</a> &#8211; <a href="http://www.jamendo.com/en/track/382477">Popcorn</a> &#8211; <strong>CC BY-SA Licensed</strong> &#8211; Another track from Aussie rockers Tenpenny Joke. I’ve played them a load of times but they’re great. Not played this track so far either. Check out their album <a href="http://www.jamendo.com/en/list/a48486/ambush-on-all-sides">Ambush On All Sides</a> on Jamendo. Nearly every track is a corker.</li>
+</ul>
+<ul>
+<li>46:01 &#8211; <a href="http://www.jamendo.com/en/artist/felixjd">Felixjd</a> &#8211; <a href="http://www.jamendo.com/en/track/367310">Little Dreams</a> &#8211; <strong>CC BY Licensed</strong> &#8211; Another track from this Italian dance-meister. I’m mixing my languages here, what’s Italian for master? Masterino! Either way. Enjoy the slap bass as I did. I think it may be sampled rather than played but either way, top stuff.</li>
+</ul>
+<ul>
+<li>51:47 &#8211; <a href="http://iamnotlefthanded.com/">I Am Not Lefthanded</a> &#8211; Spark &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Do I really need to tell you who these guys are by now? They’ve been on the show, they’ve played on the stage at a Rathole Roadshow. They’re great and you should get a copy of their new album from the website.</li>
+</ul>
+<ul>
+<li>61:48 &#8211; <a href="http://wearefm.nl/">We Are FM</a> &#8211; <a href="http://www.jamendo.com/en/track/887210/god-save-the-dj">God Save The DJ</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Another track from these Dutch dance/rock dons. Hard to describe the sound of this. Definitely lots of electro in there but also punky elements and twist of industrial. From the album <a href="http://www.jamendo.com/en/list/a104336/season-one">Season One</a>.</li>
+</ul>
+<p><span style="line-height: 24px;">Big thanks to <strong>Michael Hodgins</strong> for his Paypal donation and all the wonderful Flatter peeps as usual. I couldn&#8217;t do this without you.</span></p>
+<p>Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.</p>
+<p><strong>Get In Touch: </strong>Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I&#8217;m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom.<strong> </strong></p>
+<h3><strong>Email all feedback and suggestions to &#8211; show AT ratholeradio.org</strong></h3>
+<h3>You can also find me on <a href="http://twitter.com/ratholeradio" target="_blank">Twitter</a> and <a href="http://identi.ca/ratholeradio" target="_blank">Identi.ca</a>. Like us <a href="http://facebook.com/ratholeradio" target="_blank">on Facebook</a>.</h3>
+<h3><strong>Next Live Show:</strong> Sunday July 22nd 2012 at 9:00pm UK time</h3>
+<p>Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at <strong>irc.freenode.net </strong>the channel name is <strong>#ratholeradio</strong>. I don&#8217;t expect much to happen there in the weeks between shows, but if people want to hang around and chat you&#8217;re more than welcome. Don&#8217;t forget you can access the channel from a web browser by going to <strong><a href="http://webchat.freenode.net" target="_blank">webchat.freenode.net</a> </strong>and entering #ratholeradio in the channel text box. Take care till next time folks.</p>
+<p><strong>Subscribe to the show and get it delivered for free:</strong><a href="http://feeds2.feedburner.com/RatholeRadio" target="_blank"> Mp3 feed</a> &#8211; <a href="http://feeds2.feedburner.com/RatholeRadio-ogg" target="_blank">Ogg Feed</a> &#8211; <a href="itpc://feeds2.feedburner.com/RatholeRadio" target="_blank">iTunes</a></p>
+<p><strong>Music Sources and Licensing: </strong>A few of the tracks in this show are from the artists own personal websites and don&#8217;t contain licensing information. That&#8217;s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.</p>
+<p>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>.</p>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<ul>
+<li><strong>Association Of Music Podcasting:</strong>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>. Check out all the other great member shows.</li>
+<li><a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" alt="Creative Commons License" /></a> Rathole Radio by <a href="http://ratholeradio.org" rel="cc:attributionURL">Dan Lynch</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license">Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License</a>. Proud Member of The Association Of Music Podcasting &#8211; visit <a href="http://musicpodcasting.org" target="_blank"><strong>musicpodcasting.org</strong></a>for more details.</li>
+</ul>
+</div>
+ <p><a href="http://ratholeradio.org/?flattrss_redirect&amp;id=1192&amp;md5=9650990f84ae6e2cb235db4b42a2854f" title="Flattr" target="_blank"><img src="http://methoddan.webfactional.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://ratholeradio.org/2012/07/ep82/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/ratholeradio/RR082_08_07_2012.ogg" length="0" type="audio/ogg" />
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=20lb&amp;popout=1&amp;url=http%3A%2F%2Fratholeradio.org%2F2012%2F07%2Fep82%2F&amp;language=en_GB&amp;category=audio&amp;title=RatholeRadio+82+%26%238211%3B+8th+July+2012&amp;description=Download+Ogg+%26%238211%3B+Download+Mp3+Time+for+another+slice+of+Rathole+Radio.+Broadcast+live+on+Sunday+July+8th+2012%2C+this+is+episode+82+in+the+series.+It+features+the+usual...&amp;tags=blog" type="text/html" />
+<itunes:summary>Download Ogg – Download Mp3
+
+Time for another slice of Rathole Radio. Broadcast live on Sunday July 8th 2012, this is episode 82 in the series. It features the usual mixture of eclectic music and a healthy dose of incoherent rambling from yours truly. I hope you enjoy it.
+
+
+00:00 – Kursed – Perfect mean – CC BY-NC-SA Licensed – Another track from French rockers Kursed. I’ve played them before but not for a long time. I was reminded of them by CC Hits recently. Very cool sound.
+
+
+07:10 – Dan Bull – Death Of ACTA – CC BY Licensed – The ever popular protest rapper who attempted a Creative Commons assault on the UK top 40 not so long ago. This song was in a collection of his old stuff and it seemed appropriate this week.
+10:41 – Anna Dagmar – Satellite – License Unknown – Picked up from the always wonderful Bugcast with Dave &amp; Caroline. I bought this from CD Baby and there’s a load of Anna’s albums on there to check out.
+
+
+21:44 – Alex Hulme – Sparks – License Unknown – Saw Alex live again in Liverpool this week and he really is excellent. Nice guy too, we had a chat after his gig at the Vizea Sounds opening party. He game me a CD of his new EP on Cityscape Records that he’d intended to post. Personal delivery, how nice.
+23:53 – Diablo Swing Orchestra – Heroines – CC BY-NC-SA Licensed – Sweden’s finest operatic rockers at their best. Their style is hard to define, just the way I like things. I’ve played them many times on the show but so far not this song I don’t think.
+
+
+35:02 – Heifervescent – Let This Monkey Go – CC BY-NC-ND Licensed – A new album has just been released and I’ve featured this artist many times before. Check it out, the album is excellent. There’s a 7 track taster on Jamendo and the full thing is available to buy.
+39:32 – Tenpenny Joke – Popcorn – CC BY-SA Licensed – Another track from Aussie rockers Tenpenny Joke. I’ve played them a load of times but they’re great. Not played this track so far either. Check out their album Ambush On All Sides on Jamendo. Nearly every track is a corker.
+
+
+46:01 – Felixjd – Little Dreams – CC BY Licensed – Another track from this Italian dance-meister. I’m mixing my languages here, what’s Italian for master? Masterino! Either way. Enjoy the slap bass as I did. I think it may be sampled rather than played but either way, top stuff.
+
+
+51:47 – I Am Not Lefthanded – Spark – CC BY-NC-SA Licensed – Do I really need to tell you who these guys are by now? They’ve been on the show, they’ve played on the stage at a Rathole Roadshow. They’re great and you should get a copy of their new album from the website.
+
+
+61:48 – We Are FM – God Save The DJ – CC BY-NC-SA Licensed – Another track from these Dutch dance/rock dons. Hard to describe the sound of this. Definitely lots of electro in there but also punky elements and twist of industrial. From the album Season One.
+
+Big thanks to Michael Hodgins for his Paypal donation and all the wonderful Flatter peeps as usual. I couldn’t do this without you.
+Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.
+Get In Touch: Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I’m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom. 
+Email all feedback and suggestions to – show AT ratholeradio.org
+You can also find me on Twitter and Identi.ca. Like us on Facebook.
+Next Live Show: Sunday July 22nd 2012 at 9:00pm UK time
+Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at irc.freenode.net the channel name is #ratholeradio. I don’t expect much to happen there in the [...]</itunes:summary>
+<itunes:subtitle>Download Ogg – Download Mp3 Time for another slice of Rathole Radio. Broadcast live on Sunday July 8th ...&lt;a href=&quot;http://ratholeradio.org/2012/07/ep82/&quot; class=&quot;read-more&quot;&gt;Continue Reading&lt;/a&gt;</itunes:subtitle>
+<itunes:explicit>yes</itunes:explicit>
+	</item>
+		<item>
+		<title>RatholeRadio 81 &#8211; 27th June 2012</title>
+		<link>http://ratholeradio.org/2012/06/ep81/</link>
+		<comments>http://ratholeradio.org/2012/06/ep81/#comments</comments>
+		<pubDate>Thu, 28 Jun 2012 22:38:24 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Regular Show]]></category>
+
+		<guid isPermaLink="false">http://ratholeradio.org/?p=1179</guid>
+		<description><![CDATA[Download Ogg &#8211; Download Mp3 A slightly delayed show this time. Apologies for that. I was busy on ...<a href="http://ratholeradio.org/2012/06/ep81/" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://traffic.libsyn.com/ratholeradio/RR081_27_06_2012.ogg" target="_blank">Download Ogg</a> &#8211; <a href="http://traffic.libsyn.com/ratholeradio/RR081_27_06_2012.mp3" target="_blank">Download Mp3</a></strong></p>
+
+<p>A slightly delayed show this time. Apologies for that. I was busy on Sunday watching England lose on penalties in a major football tournament. I&#8217;m not sure why I bothered as we&#8217;ve done that a thousand times before. Anyway, enough of that. I played my usual eclectic mix of music and had a good time, I hope you have a good time listening <img src='http://ratholeradio.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> <span id="more-1179"></span></p>
+<ul>
+<li>00:00 &#8211; <a href="http://www.wearefm.nl/">We Are FM</a> &#8211; <a href="http://www.jamendo.com/en/track/887204">Dance</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; A track I picked up from CCHits.net, high energy start to the show from this Dutch artist.</li>
+</ul>
+<ul>
+<li>05:54 &#8211; <a href="http://www.johnsotter.com/">John Sotter ~ Acoustic Warrior</a> &#8211; <a href="http://www.jamendo.com/en/track/287316">Fire Wind</a> &#8211; <strong>CC BY-SA Licensed</strong> &#8211; Hailing from South California John has been travelling the world</li>
+<li>09:10 &#8211; <a href="http://www.myspace.com/133439871">Fresh Body Shop</a> &#8211; <a href="http://www.jamendo.com/en/track/450990">Enjoy The Apple</a> &#8211; <strong>CC BY-NC-ND Licensed</strong> &#8211; Another slice of industrial goodness from this French artist. I’ve played them many times before and they never disappoint.</li>
+</ul>
+<p><a href="http://www.creativecommons.org.uk/blog/tabid/84/EntryId/25/Creative-Commons-made-it-easy-to-start-CCHits-net.aspx">Article about CCHits</a> on Creative Commons UK blog.</p>
+<ul>
+<li>17:25 &#8211; <a href="http://dicklimerickacademy.bandcamp.com/album/merseycide-2010">Dick Limerick Academy</a> - <a href="http://dicklimerickacademy.bandcamp.com/track/nobeads-beat-ro-jista">Nob’eds</a> &#8211; <strong>CC BY-NC Licensed</strong> &#8211; Another track from Liverpool rappers Merseycide. I love the track but wasn’t sure of the lyrics at first, until I realised it’s all tongue in cheek. Hence the phrase “I’m a nob’ed” hehe <img src='http://ratholeradio.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </li>
+<li>21:04 &#8211; <a href="http://www.squeakychairsband.com/">Squeaky Chairs Band</a> &#8211; <a href="http://www.jamendo.com/en/track/760296">Misery Loves Company</a> &#8211; <strong>CC BY Licensed</strong> &#8211; 4 lads from Athens, Ohio in the US making great music and squeaking some chairs apparently.</li>
+</ul>
+<ul>
+<li>29:59 &#8211; <a href="http://www.lorenzosmusic.com/">Lorenzo&#8217;s Music</a> &#8211; <a href="http://soundcloud.com/lorenzos-music/chocolate-and-cocaine-demo">Chocolate and Cocaine</a> &#8211; <strong>CC BY-SA Licensed</strong> &#8211; I’ve played these guys many times over the 3 years of Rathole Radio and I think they’re fantastic. Their music is always so well recorded and a pleasure to listen to. Check them out, you can thank me later.</li>
+<li>33:56 &#8211; <a href="http://www.mindthings.net/">Mindthings</a> &#8211; <a href="http://www.jamendo.com/en/track/34403">Sounds From The Past</a> &#8211; <strong>CC BY-SA Licensed</strong> &#8211; Not much into for be found on this artist it seems. Maybe you can do better than me, if so feel free to email me. I can tell you that they’re from Bordeaux in France. There you go, I do know something after all.</li>
+</ul>
+<ul>
+<li>41:45 &#8211; <a href="http://cityscaperecords.bandcamp.com/album/the-start-ep">Alex Hulme</a> &#8211; <a href="http://soundcloud.com/brad-cityscape/alex-hulme-the-start">The Start </a>- <strong>License Unknown</strong> &#8211; From his <a href="http://soundcloud.com/brad-cityscape/sets/alex-hulme-the-start-ep">new EP of the same name</a> which is out on CityScape records. You can get it from Bandcamp. Alex is a really talented young artist and a nice lad. Check him out live if you get the chance.</li>
+</ul>
+<ul>
+<li>46:32 &#8211; ghost2000 &#8211; <a href="http://soundcloud.com/2030media/02-the-aliens-are-here-1">The Aliens Are Here</a> &#8211; <strong>License Unknown</strong> &#8211;  From their email &#8211; &#8216;ghost2000 a indie hip hop duo. From the UK but have travelled about europe, France, Italy, Germany, Spain&#8230;also done some USA stuff Formed in the UK, having been in signed bands, the album planet la la&#8217;under a new world order, the aliens are here is the single’</li>
+</ul>
+<ul>
+<li>51:20 &#8211; <a href="http://www.no-dreams.com/">No Dreams</a> &#8211; <a href="http://www.jamendo.com/en/track/802591/just-to-be-ok">Just To Be OK</a> &#8211; <strong>CC BY Licensed</strong> &#8211; I heard this one via Jamendo radio and liked it. The artist is from Montevido in Uruguay.</li>
+</ul>
+<ul>
+<li>61:35 &#8211; <a href="http://20lb.net">20lb Sounds</a> &#8211; <a href="http://soundcloud.com/vizeasound/jimmy-carter-live-acoustic">Jimmy Carter (Live acoustic session)</a> &#8211; <strong>CC BY-NC Licensed</strong> &#8211; This was recorded for a podcast that’s jet to be published. We recorded it with the guys over at Vizea Sound in Liverpool. Thanks to Joe and Jason for helping.</li>
+</ul>
+<p><strong>Thanks to everyone who&#8217;s clicked the Flattr buttons to support the show recently</strong></p>
+<p>Your donations are the reason I can do this. So click those Flattr buttons and use the Paypal link and I&#8217;ll keep the music coming. Deal?</p>
+<p>Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.</p>
+<p><strong>Get In Touch: </strong>Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I&#8217;m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom.<strong> </strong></p>
+<h3><strong>Email all feedback and suggestions to &#8211; show AT ratholeradio.org</strong></h3>
+<h3>You can also find me on <a href="http://twitter.com/ratholeradio" target="_blank">Twitter</a> and <a href="http://identi.ca/ratholeradio" target="_blank">Identi.ca</a>. Like us <a href="http://facebook.com/ratholeradio" target="_blank">on Facebook</a>.</h3>
+<h3><strong>Next Live Show:</strong> Sunday July 8th 2012 at 9:00pm UK time</h3>
+<p>Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at <strong>irc.freenode.net </strong>the channel name is <strong>#ratholeradio</strong>. I don&#8217;t expect much to happen there in the weeks between shows, but if people want to hang around and chat you&#8217;re more than welcome. Don&#8217;t forget you can access the channel from a web browser by going to <strong><a href="http://webchat.freenode.net" target="_blank">webchat.freenode.net</a> </strong>and entering #ratholeradio in the channel text box. Take care till next time folks.</p>
+<p><strong>Subscribe to the show and get it delivered for free:</strong><a href="http://feeds2.feedburner.com/RatholeRadio" target="_blank"> Mp3 feed</a> &#8211; <a href="http://feeds2.feedburner.com/RatholeRadio-ogg" target="_blank">Ogg Feed</a> &#8211; <a href="itpc://feeds2.feedburner.com/RatholeRadio" target="_blank">iTunes</a></p>
+<p><strong>Music Sources and Licensing: </strong>A few of the tracks in this show are from the artists own personal websites and don&#8217;t contain licensing information. That&#8217;s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.</p>
+<p>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>.</p>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<ul>
+<li><strong>Association Of Music Podcasting:</strong>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>. Check out all the other great member shows.</li>
+<li><a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" alt="Creative Commons License" /></a> Rathole Radio by <a href="http://ratholeradio.org" rel="cc:attributionURL">Dan Lynch</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license">Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License</a>. Proud Member of The Association Of Music Podcasting &#8211; visit <a href="http://musicpodcasting.org" target="_blank"><strong>musicpodcasting.org</strong></a>for more details.</li>
+</ul>
+</div>
+ <p><a href="http://ratholeradio.org/?flattrss_redirect&amp;id=1179&amp;md5=56c942f522cb1cf7d3c2c309fae21cbf" title="Flattr" target="_blank"><img src="http://methoddan.webfactional.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://ratholeradio.org/2012/06/ep81/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/ratholeradio/RR081_27_06_2012.ogg" length="0" type="audio/ogg" />
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=20lb&amp;popout=1&amp;url=http%3A%2F%2Fratholeradio.org%2F2012%2F06%2Fep81%2F&amp;language=en_GB&amp;category=audio&amp;title=RatholeRadio+81+%26%238211%3B+27th+June+2012&amp;description=Download+Ogg+%26%238211%3B+Download+Mp3+A+slightly+delayed+show+this+time.+Apologies+for+that.+I+was+busy+on+Sunday+watching+England+lose+on+penalties+in+a+major+football+tournament.+I%26%238217%3Bm...&amp;tags=blog" type="text/html" />
+<itunes:summary>Download Ogg – Download Mp3
+
+A slightly delayed show this time. Apologies for that. I was busy on Sunday watching England lose on penalties in a major football tournament. I’m not sure why I bothered as we’ve done that a thousand times before. Anyway, enough of that. I played my usual eclectic mix of music and had a good time, I hope you have a good time listening  
+
+00:00 – We Are FM – Dance – CC BY-NC-SA Licensed – A track I picked up from CCHits.net, high energy start to the show from this Dutch artist.
+
+
+05:54 – John Sotter ~ Acoustic Warrior – Fire Wind – CC BY-SA Licensed – Hailing from South California John has been travelling the world
+09:10 – Fresh Body Shop – Enjoy The Apple – CC BY-NC-ND Licensed – Another slice of industrial goodness from this French artist. I’ve played them many times before and they never disappoint.
+
+Article about CCHits on Creative Commons UK blog.
+
+17:25 – Dick Limerick Academy - Nob’eds – CC BY-NC Licensed – Another track from Liverpool rappers Merseycide. I love the track but wasn’t sure of the lyrics at first, until I realised it’s all tongue in cheek. Hence the phrase “I’m a nob’ed” hehe  
+21:04 – Squeaky Chairs Band – Misery Loves Company – CC BY Licensed – 4 lads from Athens, Ohio in the US making great music and squeaking some chairs apparently.
+
+
+29:59 – Lorenzo’s Music – Chocolate and Cocaine – CC BY-SA Licensed – I’ve played these guys many times over the 3 years of Rathole Radio and I think they’re fantastic. Their music is always so well recorded and a pleasure to listen to. Check them out, you can thank me later.
+33:56 – Mindthings – Sounds From The Past – CC BY-SA Licensed – Not much into for be found on this artist it seems. Maybe you can do better than me, if so feel free to email me. I can tell you that they’re from Bordeaux in France. There you go, I do know something after all.
+
+
+41:45 – Alex Hulme – The Start - License Unknown – From his new EP of the same name which is out on CityScape records. You can get it from Bandcamp. Alex is a really talented young artist and a nice lad. Check him out live if you get the chance.
+
+
+46:32 – ghost2000 – The Aliens Are Here – License Unknown –  From their email – ‘ghost2000 a indie hip hop duo. From the UK but have travelled about europe, France, Italy, Germany, Spain…also done some USA stuff Formed in the UK, having been in signed bands, the album planet la la’under a new world order, the aliens are here is the single’
+
+
+51:20 – No Dreams – Just To Be OK – CC BY Licensed – I heard this one via Jamendo radio and liked it. The artist is from Montevido in Uruguay.
+
+
+61:35 – 20lb Sounds – Jimmy Carter (Live acoustic session) – CC BY-NC Licensed – This was recorded for a podcast that’s jet to be published. We recorded it with the guys over at Vizea Sound in Liverpool. Thanks to Joe and Jason for helping.
+
+Thanks to everyone who’s clicked the Flattr buttons to support the show recently
+Your donations are the reason I can do this. So click those Flattr buttons and use the Paypal link and I’ll keep the music coming. Deal?
+Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.
+Get In Touch: Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I’m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom. 
+Email all feedback and suggestions to – show AT ratholeradio.org
+You can also find me on Twitter and Identi.ca. Like us on Facebook.
+Next Live Show: Sunday July 8th 2012 at 9:00pm UK time
+Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at [...]</itunes:summary>
+<itunes:subtitle>Download Ogg – Download Mp3 A slightly delayed show this time. Apologies for that. I was busy on ...&lt;a href=&quot;http://ratholeradio.org/2012/06/ep81/&quot; class=&quot;read-more&quot;&gt;Continue Reading&lt;/a&gt;</itunes:subtitle>
+	</item>
+		<item>
+		<title>RatholeRadio 80 &#8211; 10th June 2012</title>
+		<link>http://ratholeradio.org/2012/06/ep80/</link>
+		<comments>http://ratholeradio.org/2012/06/ep80/#comments</comments>
+		<pubDate>Tue, 12 Jun 2012 11:47:26 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Regular Show]]></category>
+
+		<guid isPermaLink="false">http://ratholeradio.org/?p=1170</guid>
+		<description><![CDATA[Download Ogg &#8211; Download Mp3 Normal service continues this week as I played an eclectic selection of the ...<a href="http://ratholeradio.org/2012/06/ep80/" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://traffic.libsyn.com/ratholeradio/RR080_10_06_2012.ogg" target="_blank">Download Ogg</a> &#8211; <a href="http://traffic.libsyn.com/ratholeradio/RR080_10_06_2012.mp3" target="_blank">Download Mp3</a></strong></p>
+
+<p>Normal service continues this week as I played an eclectic selection of the best independent music on the web and also chatted about all kinds of rubbish. I attempted a live song but broke a string halfway through and had to abort. So instead I&#8217;ve embedded the last live acoustic video I did on YouTube for your listening pleasure. Hope it makes up for it. Enjoy the show <img src='http://ratholeradio.org/wp-includes/images/smilies/icon_smile.gif' alt=':)' class='wp-smiley' /> </p>
+<ul>
+<li><span id="more-1170"></span>00:00 &#8211; <a href="http://en.wikipedia.org/wiki/Eduard_Khil">Edward Khil</a> &#8211; <a href="http://trololololololololololo.com/">Trolololol</a> &#8211; <strong>License Unknown</strong> &#8211; This is a classic 1970’s Russian pop song. The original song was censored because the lyrics were deemed unsuitable by the state. So Khil just made random noises and removed all the words. It was rediscovered in recent years and has become an Internet phenomena. Apparently it’s sometimes known as the “Russian Rickroll”. He died just recently.</li>
+</ul>
+<ul>
+<li>06:09 &#8211; <a href="http://www.mcgazz.co.uk/panthersolo/">Panther Solo</a> &#8211; <a href="http://www.mcgazz.co.uk/panthersolo/mp3/03_lap_quilting_with_georgia_bonesteel.mp3">Lap Quilting With Georgia Bonesteel</a>  - <strong>CC BY-NC-SA Licensed</strong> &#8211; This was sent to me by friend of the show Adrian McEwen and it’s actually by a mutual acquaintance of ours. Check out Paul’s music at the website and grab the album Buff Low Noise, it’s very good.</li>
+<li>09:43 &#8211; <a href="http://lightninseed.tumblr.com/">Lightnin Seed</a> &#8211; <a href="http://lightninseed.bandcamp.com/track/stone-root">Stone Root </a>- <strong>CC BY-NC-SA Licensed</strong> &#8211; I heard this on CCHits recently and enjoyed it. <a href="http://lightninseed.tumblr.com/about">More info.</a></li>
+</ul>
+<ul>
+<li>17:24 &#8211; <a href="http://www.youmetree.co.uk/">You Me Tree</a> &#8211; <a href="http://youmetree.bandcamp.com/track/lights-2">Lights</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; Friends of the show, the guys played last year at the 2011 roadshow and went down a storm. They are now called You Me Tree and released a self titled EP on May 18th. This is the third track from it. Expect to hear more in the coming weeks.</li>
+<li>21:30 &#8211; <a href="http://dicklimerickacademy.bandcamp.com/album/merseycide-2010">Merseycide</a> &#8211; <a href="http://dicklimerickacademy.bandcamp.com/track/richard-feat-zombina">Richard</a> &#8211; <strong>CC BY-NC Licensed</strong> &#8211; Also known as the <a href="http://dicklimerickacademy.bandcamp.com/album/merseycide-2010">Dick Limerick Academy</a> on Soundcloud. These lads hail from Liverpool in case you couldn’t tell and I have to thank Graham Holland for sending them my way. After hearing some of the tracks I realised I’d actually seen them live doing a support slot last year.</li>
+</ul>
+<ul>
+<li>30:42 &#8211; <a href="http://soundsunique.co.uk/">Songs Of Trees</a> &#8211; <a href="http://soundsunique.co.uk/component/content/article/51-songs-of-trees-news-category/218-thanatoschords.html">Mister Thanatos</a> &#8211; <strong>License Unknown</strong> &#8211; An artist submission this one. Kevin Osborne sent release my way and apparently in Greek mythology Thanatos is the Grim Reaper. Which gives the song some extra weight. Find more info at the <a href="http://soundsunique.co.uk/">Sounds Unique</a> website.</li>
+<li>33:32 &#8211; <a href="http://badpandarecords.wordpress.com/2010/05/13/badpanda027/">errnois</a> &#8211; <a href="http://ia700307.us.archive.org/35/items/badpanda027/Errnois-Happiness.mp3" target="_blank">happiness</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; The opening track from the last CCHits.net. A strange and experimental piece of music that I found interesting. <a href="http://badpandarecords.wordpress.com/2010/05/13/badpanda027/">Read info</a>.</li>
+</ul>
+<ul>
+<li>43:32 &#8211; <a href="http://www.jamendo.com/en/artist/Pinkle">Bryyn</a> &#8211; <a href="http://www.jamendo.com/en/track/343937/lettuce-in-my-pants-reprise">Lettace In My Pants (reprise)</a> -<strong> CC BY-NC-SA Licensed</strong> &#8211; I played a track by this Swiss artist, careful how you say that, last week. I heard this one via Jamendo and the title intrigued me. Love the mention of Charlie Sheen in the lyrics too.</li>
+</ul>
+<p>48:54 &#8211; <strong>LIVE SONG</strong> &#8211; <a href="http://20lb.net">20lb Sounds</a> &#8211; “Change” (acoustic) &#8212; <strong>Aborted due to broken string mid song, gah!</strong> Probably for the best after hearing it back. Man it sounded rough. Apologies. Try the video below instead:</p>
+<p><iframe src="http://www.youtube.com/embed/YgHQViro-s0" frameborder="0" width="560" height="315"></iframe></p>
+<ul>
+<li>53:35 &#8211; <a href="http://www.jamendo.com/en/artist/367346/radio-star">Radio Star</a> &#8211; <a href="http://www.jamendo.com/en/track/744648/a-common-tale">A Common Tale</a> &#8211; <strong>CC BY-SA Licensed</strong> &#8211; Heard this via Jamendo radio and liked it a lot. The vocal style reminds me a bit of Robert Smith from The Cure in parts. There’s almost no information about this band on Jamendo so if you know any more please pass it on. Their profile is managed by Isotope Records who are based in Australia but has no links on it.</li>
+</ul>
+<ul>
+<li>62:12 &#8211; <a href="http://iamnotlefthanded.com">I Am Not Lefthanded</a> &#8211; <a href="http://iamnotlefthanded.bandcamp.com/track/falls-to-me">Falls To Me</a> &#8211; <strong>CC BY-NC-SA Licensed</strong> &#8211; From the new album <a href="http://iamnotlefthanded.bandcamp.com/album/the-fire-the-sigh">The Fire &amp; The Sigh</a> which you can find at their website. The guys have relocated to California and seem to be doing really well. They’ve currently got a Kickstarter campaign up to fund their trip to play the North By Northeast Festival.</li>
+</ul>
+<p><span style="color: #000000;"><strong>Thanks to everyone who&#8217;s clicked the Flattr buttons to support the show recently.</strong></span></p>
+<p>Your donations are the reason I can do this. So click those Flattr buttons and use the Paypal link and I&#8217;ll keep the music coming. Deal?</p>
+<p>Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.</p>
+<p><strong>Get In Touch: </strong>Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I&#8217;m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom.<strong> </strong></p>
+<h3><strong>Email all feedback and suggestions to &#8211; show AT ratholeradio.org</strong></h3>
+<h3>You can also find me on <a href="http://twitter.com/ratholeradio" target="_blank">Twitter</a> and <a href="http://identi.ca/ratholeradio" target="_blank">Identi.ca</a>. Like us <a href="http://facebook.com/ratholeradio" target="_blank">on Facebook</a>.</h3>
+<h3><strong>Next Live Show:</strong> Sunday June 24th 2012 at 9:00pm UK time</h3>
+<p>Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at <strong>irc.freenode.net </strong>the channel name is <strong>#ratholeradio</strong>. I don&#8217;t expect much to happen there in the weeks between shows, but if people want to hang around and chat you&#8217;re more than welcome. Don&#8217;t forget you can access the channel from a web browser by going to <strong><a href="http://webchat.freenode.net" target="_blank">webchat.freenode.net</a> </strong>and entering #ratholeradio in the channel text box. Take care till next time folks.</p>
+<p><strong>Subscribe to the show and get it delivered for free:</strong><a href="http://feeds2.feedburner.com/RatholeRadio" target="_blank"> Mp3 feed</a> &#8211; <a href="http://feeds2.feedburner.com/RatholeRadio-ogg" target="_blank">Ogg Feed</a> &#8211; <a href="itpc://feeds2.feedburner.com/RatholeRadio" target="_blank">iTunes</a></p>
+<p><strong>Music Sources and Licensing: </strong>A few of the tracks in this show are from the artists own personal websites and don&#8217;t contain licensing information. That&#8217;s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.</p>
+<p>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>.</p>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<ul>
+<li><strong>Association Of Music Podcasting:</strong>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>. Check out all the other great member shows.</li>
+<li><a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" alt="Creative Commons License" /></a> Rathole Radio by <a href="http://ratholeradio.org" rel="cc:attributionURL">Dan Lynch</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license">Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License</a>. Proud Member of The Association Of Music Podcasting &#8211; visit <a href="http://musicpodcasting.org" target="_blank"><strong>musicpodcasting.org</strong></a>for more details.</li>
+</ul>
+</div>
+ <p><a href="http://ratholeradio.org/?flattrss_redirect&amp;id=1170&amp;md5=0d93f85010204e2610f17797c2f765ba" title="Flattr" target="_blank"><img src="http://methoddan.webfactional.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://ratholeradio.org/2012/06/ep80/feed/</wfw:commentRss>
+		<slash:comments>2</slash:comments>
+<enclosure url="http://traffic.libsyn.com/ratholeradio/RR080_10_06_2012.ogg" length="0" type="audio/ogg" />
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=20lb&amp;popout=1&amp;url=http%3A%2F%2Fratholeradio.org%2F2012%2F06%2Fep80%2F&amp;language=en_GB&amp;category=audio&amp;title=RatholeRadio+80+%26%238211%3B+10th+June+2012&amp;description=Download+Ogg+%26%238211%3B+Download+Mp3+Normal+service+continues+this+week+as+I+played+an+eclectic+selection+of+the+best+independent+music+on+the+web+and+also+chatted+about+all+kinds...&amp;tags=blog" type="text/html" />
+<itunes:summary>Download Ogg – Download Mp3
+
+Normal service continues this week as I played an eclectic selection of the best independent music on the web and also chatted about all kinds of rubbish. I attempted a live song but broke a string halfway through and had to abort. So instead I’ve embedded the last live acoustic video I did on YouTube for your listening pleasure. Hope it makes up for it. Enjoy the show  
+
+00:00 – Edward Khil – Trolololol – License Unknown – This is a classic 1970’s Russian pop song. The original song was censored because the lyrics were deemed unsuitable by the state. So Khil just made random noises and removed all the words. It was rediscovered in recent years and has become an Internet phenomena. Apparently it’s sometimes known as the “Russian Rickroll”. He died just recently.
+
+
+06:09 – Panther Solo – Lap Quilting With Georgia Bonesteel  - CC BY-NC-SA Licensed – This was sent to me by friend of the show Adrian McEwen and it’s actually by a mutual acquaintance of ours. Check out Paul’s music at the website and grab the album Buff Low Noise, it’s very good.
+09:43 – Lightnin Seed – Stone Root - CC BY-NC-SA Licensed – I heard this on CCHits recently and enjoyed it. More info.
+
+
+17:24 – You Me Tree – Lights – CC BY-NC-SA Licensed – Friends of the show, the guys played last year at the 2011 roadshow and went down a storm. They are now called You Me Tree and released a self titled EP on May 18th. This is the third track from it. Expect to hear more in the coming weeks.
+21:30 – Merseycide – Richard – CC BY-NC Licensed – Also known as the Dick Limerick Academy on Soundcloud. These lads hail from Liverpool in case you couldn’t tell and I have to thank Graham Holland for sending them my way. After hearing some of the tracks I realised I’d actually seen them live doing a support slot last year.
+
+
+30:42 – Songs Of Trees – Mister Thanatos – License Unknown – An artist submission this one. Kevin Osborne sent release my way and apparently in Greek mythology Thanatos is the Grim Reaper. Which gives the song some extra weight. Find more info at the Sounds Unique website.
+33:32 – errnois – happiness – CC BY-NC-SA Licensed – The opening track from the last CCHits.net. A strange and experimental piece of music that I found interesting. Read info.
+
+
+43:32 – Bryyn – Lettace In My Pants (reprise) - CC BY-NC-SA Licensed – I played a track by this Swiss artist, careful how you say that, last week. I heard this one via Jamendo and the title intrigued me. Love the mention of Charlie Sheen in the lyrics too.
+
+48:54 – LIVE SONG – 20lb Sounds – “Change” (acoustic) — Aborted due to broken string mid song, gah! Probably for the best after hearing it back. Man it sounded rough. Apologies. Try the video below instead:
+
+
+53:35 – Radio Star – A Common Tale – CC BY-SA Licensed – Heard this via Jamendo radio and liked it a lot. The vocal style reminds me a bit of Robert Smith from The Cure in parts. There’s almost no information about this band on Jamendo so if you know any more please pass it on. Their profile is managed by Isotope Records who are based in Australia but has no links on it.
+
+
+62:12 – I Am Not Lefthanded – Falls To Me – CC BY-NC-SA Licensed – From the new album The Fire &amp; The Sigh which you can find at their website. The guys have relocated to California and seem to be doing really well. They’ve currently got a Kickstarter campaign up to fund their trip to play the North By Northeast Festival.
+
+Thanks to everyone who’s clicked the Flattr buttons to support the show recently.
+Your donations are the reason I can do this. So click those Flattr buttons and use the Paypal link and I’ll keep the music coming. Deal?
+Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.
+Get In Touch: Please send me your thoughts and feedback on the music I play or any other aspect of [...]</itunes:summary>
+<itunes:subtitle>Download Ogg – Download Mp3 Normal service continues this week as I played an eclectic selection of the ...&lt;a href=&quot;http://ratholeradio.org/2012/06/ep80/&quot; class=&quot;read-more&quot;&gt;Continue Reading&lt;/a&gt;</itunes:subtitle>
+	</item>
+		<item>
+		<title>RatholeRadio 79 &#8211; 27th May 2012</title>
+		<link>http://ratholeradio.org/2012/05/ep79/</link>
+		<comments>http://ratholeradio.org/2012/05/ep79/#comments</comments>
+		<pubDate>Tue, 29 May 2012 23:04:09 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[Regular Show]]></category>
+
+		<guid isPermaLink="false">http://ratholeradio.org/?p=1159</guid>
+		<description><![CDATA[Download Ogg &#8211; Download Mp3 After the live show last time it&#8217;s back to normal service. I played ...<a href="http://ratholeradio.org/2012/05/ep79/" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://traffic.libsyn.com/ratholeradio/RR079_27_05_2012.ogg" target="_blank">Download Ogg</a> &#8211; <a href="http://traffic.libsyn.com/ratholeradio/RR079_27_05_2012.mp3" target="_blank">Download Mp3</a></strong></p>
+
+<p>After the live show last time it&#8217;s back to normal service. I played an eclectic mix of music and performed a live cover song by the band Cream. I also rambled a lot and I think the heat melted my brain, so it might be even more disorganised than usual. I hope you enjoy the show anyway.<br />
+<span id="more-1159"></span></p>
+<ul>
+<li>00:00 &#8211; <a href="http://www.juanitos.net/">Juanitos</a> – Sai-k-delic Party<strong> – CC BY Licensed &#8211; </strong>More groovy beats from these French fun makers. I heard this on <a href="http://thebugcast.org/">The Bugcast</a> and liked it a lot.</li>
+</ul>
+<ul>
+<li>06:03 &#8211; <a href="http://binaryzeromusic.blogspot.com/">Binary Zero</a> &#8211; <a href="http://binaryzero.bandcamp.com/track/dirty-clouds">Dirty Clouds</a> -<strong> CC BY-NC-ND Licensed </strong>- A DJ/producer from Glasgow, I loved this bit of electronic goodness.</li>
+<li>09:15 &#8211;  <a href="http://www.themonsterbrothers.com/">The Monster Brothers</a> – <a href="http://www.jamendo.com/en/track/856139/sack-of-bones">Sack Of Bones</a> –<strong> CC BY-SA Licensed &#8211; </strong>from Lugano, Switzerland. This one is from Jamendo and I don’t have a load of information about the artist. Check out their website for more.</li>
+</ul>
+<ul>
+<li>16:47 &#8211; <a href="http://www.facebook.com/sophieballamymusic">Sophie Ballamy</a> &#8211; My Friend, The Moon<strong> &#8211; License Unknown &#8211; </strong>Sophie is a friend of Thom Morecroft and got in touch with me via Facebook. She emailed this track and I really enjoyed it. You can get her EP titled “My Friend, The Moon” on Amazon and iTunes.</li>
+<li>20:04 &#8211; <a href="http://www.jamendo.com/en/artist/Pinkle">Bryyn</a> &#8211; <a href="http://www.jamendo.com/en/track/340041">Laws of Physics</a> -<strong> CC BY-NC-SA Licensed </strong>- A great track I heard via <a href="http://cchits.net/">CCHits.net</a> and their new website. Another Swiss artist. I’m on a swiss roll tonight&#8230; ok I’ll get my coat.</li>
+</ul>
+<ul>
+<li>29:32 &#8211; <a href="http://www.jamendo.com/en/artist/Raphael_Chassigneux">Raphaël Chassigneux</a> &#8211; <a href="http://www.jamendo.com/en/track/899410">Marina la lama</a> -<strong> CC BY-NC-ND Licensed</strong> &#8211; A lovely bit of Latin music to welcome in the warm weather right now in Liverpool. These guys are from France.</li>
+<li>30:57 &#8211; <a href="http://thestirrups.bandcamp.com/">The Stirrups</a> – <a href="http://www.jamendo.com/en/track/694739/best-times">Best Times</a> –<strong> CC BY-NC_SA Licensed</strong> &#8211; From Montevideo, Uruguay these guys have a great classic indie sound. Reminds me a bit of The Strokes.</li>
+</ul>
+<ul>
+<li>39:11 &#8211; Tijana Bass &#8211; <a href="http://www.slamjamz.com/music/viewdlsingle/518">Face Of Freedom</a> -<strong> License Unknown</strong> &#8211; Another one from Chuck D’s <a href="http://slamjamz.com/">Slamjamz.com</a> label. A bit of drum and bass this time. Bring it on.</li>
+<li>45:53 -<strong> LIVE SONG &#8211; </strong>Listener’s choice (kind of) &#8211; My haphazard version of<strong> “White Room”</strong> by<strong> Cream.</strong></li>
+</ul>
+<ul>
+<li>51:38 &#8211; <a href="http://sampagemusic.com/">Sam Page</a> &#8211; Lottery -<strong> License Unknown</strong> &#8211; An artist submission as this was emailed to me by Sam. I really love the sounds and production on this track. The vocals reminded me a little of Beck in places.</li>
+</ul>
+<ul>
+<li>61:28 &#8211; <a href="http://www.jamendo.com/en/artist/Emerald_Park">Emerald Park</a> &#8211; <a href="http://www.jamendo.com/en/track/896970">Reality Bites</a> -<strong> CC BY-NC-ND Licensed</strong> &#8211; I’ve played this band plenty of times but I never get tired of hearing their music. Probably one of the best CC artists out there right now. This song is also beautifully produced.</li>
+</ul>
+<p><span style="color: #000000;"><strong>Thanks to everyone who&#8217;s clicked the Flattr buttons to support the show recently.</strong></span></p>
+<p>Your donations are the reason I can do this. So click those Flattr buttons and use the Paypal link and I&#8217;ll keep the music coming. Deal?</p>
+<p>Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.</p>
+<p><strong>Get In Touch: </strong>Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I&#8217;m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom.<strong> </strong></p>
+<h3><strong>Email all feedback and suggestions to &#8211; show AT ratholeradio.org</strong></h3>
+<h3>You can also find me on <a href="http://twitter.com/ratholeradio" target="_blank">Twitter</a> and <a href="http://identi.ca/ratholeradio" target="_blank">Identi.ca</a>. Like us <a href="http://facebook.com/ratholeradio" target="_blank">on Facebook</a>.</h3>
+<h3><strong>Next Live Show:</strong> Friday June 10th 2012 at 9:00pm UK time</h3>
+<p>Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at <strong>irc.freenode.net </strong>the channel name is <strong>#ratholeradio</strong>. I don&#8217;t expect much to happen there in the weeks between shows, but if people want to hang around and chat you&#8217;re more than welcome. Don&#8217;t forget you can access the channel from a web browser by going to <strong><a href="http://webchat.freenode.net" target="_blank">webchat.freenode.net</a> </strong>and entering #ratholeradio in the channel text box. Take care till next time folks.</p>
+<p><strong>Subscribe to the show and get it delivered for free:</strong><a href="http://feeds2.feedburner.com/RatholeRadio" target="_blank"> Mp3 feed</a> &#8211; <a href="http://feeds2.feedburner.com/RatholeRadio-ogg" target="_blank">Ogg Feed</a> &#8211; <a href="itpc://feeds2.feedburner.com/RatholeRadio" target="_blank">iTunes</a></p>
+<p><strong>Music Sources and Licensing: </strong>A few of the tracks in this show are from the artists own personal websites and don&#8217;t contain licensing information. That&#8217;s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.</p>
+<p>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>.</p>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<ul>
+<li><strong>Association Of Music Podcasting:</strong>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>. Check out all the other great member shows.</li>
+<li><a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" alt="Creative Commons License" /></a> Rathole Radio by <a href="http://ratholeradio.org" rel="cc:attributionURL">Dan Lynch</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license">Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License</a>. Proud Member of The Association Of Music Podcasting &#8211; visit <a href="http://musicpodcasting.org" target="_blank"><strong>musicpodcasting.org</strong></a>for more details.</li>
+</ul>
+</div>
+ <p><a href="http://ratholeradio.org/?flattrss_redirect&amp;id=1159&amp;md5=498680dcf2aaac57e4aa7402b54ec861" title="Flattr" target="_blank"><img src="http://methoddan.webfactional.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://ratholeradio.org/2012/05/ep79/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/ratholeradio/RR079_27_05_2012.ogg" length="0" type="audio/ogg" />
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=20lb&amp;popout=1&amp;url=http%3A%2F%2Fratholeradio.org%2F2012%2F05%2Fep79%2F&amp;language=en_GB&amp;category=audio&amp;title=RatholeRadio+79+%26%238211%3B+27th+May+2012&amp;description=Download+Ogg+%26%238211%3B+Download+Mp3+After+the+live+show+last+time+it%26%238217%3Bs+back+to+normal+service.+I+played+an+eclectic+mix+of+music+and+performed+a+live+cover+song+by...&amp;tags=blog" type="text/html" />
+<itunes:summary>Download Ogg – Download Mp3
+
+After the live show last time it’s back to normal service. I played an eclectic mix of music and performed a live cover song by the band Cream. I also rambled a lot and I think the heat melted my brain, so it might be even more disorganised than usual. I hope you enjoy the show anyway.
+
+
+00:00 – Juanitos – Sai-k-delic Party – CC BY Licensed – More groovy beats from these French fun makers. I heard this on The Bugcast and liked it a lot.
+
+
+06:03 – Binary Zero – Dirty Clouds - CC BY-NC-ND Licensed - A DJ/producer from Glasgow, I loved this bit of electronic goodness.
+09:15 –  The Monster Brothers – Sack Of Bones – CC BY-SA Licensed – from Lugano, Switzerland. This one is from Jamendo and I don’t have a load of information about the artist. Check out their website for more.
+
+
+16:47 – Sophie Ballamy – My Friend, The Moon – License Unknown – Sophie is a friend of Thom Morecroft and got in touch with me via Facebook. She emailed this track and I really enjoyed it. You can get her EP titled “My Friend, The Moon” on Amazon and iTunes.
+20:04 – Bryyn – Laws of Physics - CC BY-NC-SA Licensed - A great track I heard via CCHits.net and their new website. Another Swiss artist. I’m on a swiss roll tonight… ok I’ll get my coat.
+
+
+29:32 – Raphaël Chassigneux – Marina la lama - CC BY-NC-ND Licensed – A lovely bit of Latin music to welcome in the warm weather right now in Liverpool. These guys are from France.
+30:57 – The Stirrups – Best Times – CC BY-NC_SA Licensed – From Montevideo, Uruguay these guys have a great classic indie sound. Reminds me a bit of The Strokes.
+
+
+39:11 – Tijana Bass – Face Of Freedom - License Unknown – Another one from Chuck D’s Slamjamz.com label. A bit of drum and bass this time. Bring it on.
+45:53 - LIVE SONG – Listener’s choice (kind of) – My haphazard version of “White Room” by Cream.
+
+
+51:38 – Sam Page – Lottery - License Unknown – An artist submission as this was emailed to me by Sam. I really love the sounds and production on this track. The vocals reminded me a little of Beck in places.
+
+
+61:28 – Emerald Park – Reality Bites - CC BY-NC-ND Licensed – I’ve played this band plenty of times but I never get tired of hearing their music. Probably one of the best CC artists out there right now. This song is also beautifully produced.
+
+Thanks to everyone who’s clicked the Flattr buttons to support the show recently.
+Your donations are the reason I can do this. So click those Flattr buttons and use the Paypal link and I’ll keep the music coming. Deal?
+Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.
+Get In Touch: Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I’m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom. 
+Email all feedback and suggestions to – show AT ratholeradio.org
+You can also find me on Twitter and Identi.ca. Like us on Facebook.
+Next Live Show: Friday June 10th 2012 at 9:00pm UK time
+Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at irc.freenode.net the channel name is #ratholeradio. I don’t expect much to happen there in the weeks between shows, but if people want to hang around and chat you’re more than welcome. Don’t forget you can access the channel from a web browser by going to webchat.freenode.net and entering #ratholeradio in the channel text box. Take care till next time folks.
+Subscribe to the show and get it delivered for free: Mp3 feed – Ogg Feed – iTunes
+Music Sources and Licensing: A few of the tracks in this show are from the artists own personal websites and don’t [...]</itunes:summary>
+<itunes:subtitle>Download Ogg – Download Mp3 After the live show last time it’s back to normal service. I played ...&lt;a href=&quot;http://ratholeradio.org/2012/05/ep79/&quot; class=&quot;read-more&quot;&gt;Continue Reading&lt;/a&gt;</itunes:subtitle>
+	</item>
+		<item>
+		<title>Rathole Radio 78 &#8211; 15th May 2012</title>
+		<link>http://ratholeradio.org/2012/05/ep78/</link>
+		<comments>http://ratholeradio.org/2012/05/ep78/#comments</comments>
+		<pubDate>Wed, 16 May 2012 22:48:17 +0000</pubDate>
+		<dc:creator>admin</dc:creator>
+				<category><![CDATA[live music]]></category>
+
+		<guid isPermaLink="false">http://ratholeradio.org/?p=1142</guid>
+		<description><![CDATA[Download Ogg &#8211; Download Mp3 A very special show this time as I present recordings from the Rathole ...<a href="http://ratholeradio.org/2012/05/ep78/" class="read-more">Continue Reading</a>]]></description>
+			<content:encoded><![CDATA[<p><strong><a href="http://traffic.libsyn.com/ratholeradio/RR078_11_05_2012.ogg" target="_blank">Download Ogg</a> &#8211; <a href="http://traffic.libsyn.com/ratholeradio/RR078_11_05_2012.mp3" target="_blank">Download Mp3</a></strong></p>
+
+<p>A very special show this time as I present recordings from the <strong>Rathole Roadshow 2012</strong> which took place on <strong>Friday May 11th @ LEAF, Liverpool</strong>. Hear live sets from <a href="http://thommorecroftmakesmusic.blogspot.com/" target="_blank"><strong>Thom Morecroft</strong></a>, <a href="http://20lb.net/" target="_blank"><strong>20lb Sounds</strong></a>, <a href="http://www.myspace.com/pchenga" target="_blank"><strong>P&#8217;Chenga</strong></a> and <a href="http://www.facebook.com/pages/The-Corinthians/192666980759147" target="_blank"><strong>The Corinthians</strong></a>. I have to give a big thanks to <strong>Andrew Bates</strong> our recording engineer,<strong> Jon Hall</strong> our live engineer, <strong>Neil Morrin</strong> for his excellent video work and <strong>Adrian McEwen</strong> for the audience bot, <a href="http://bubblino.com" target="_blank">Bubblino</a> and keeping us in touch with the chat room.</p>
+<p><span id="more-1142"></span></p>
+<p>The evening kicked off with the fabulous <a href="http://thommorecroftmakesmusic.blogspot.com/" target="_blank"><strong>Thom Morecroft</strong></a>, accompanied by Elle on vocals and Chris on percussion. I apologise for not knowing their surnames and will endeavour to find out more. Enjoy Thom&#8217;s set.</p>
+<ul>
+<li>02:29 &#8211; <a href="http://thommorecroftmakesmusic.blogspot.com/" target="_blank">Thom Morecroft</a> &#8211; Moon Moon Shake It &#8211; <strong>License Unknown</strong></li>
+<li>05:49 &#8211; <a href="http://thommorecroftmakesmusic.blogspot.com/" target="_blank">Thom Morecroft</a> &#8211; Oh Rocko &#8211; <strong>License Unknown</strong></li>
+<li>10:33 &#8211; <a href="http://thommorecroftmakesmusic.blogspot.com/" target="_blank">Thom Morecroft</a> &#8211; Holly-<strong> License Unknown</strong></li>
+</ul>
+<p>Up next I took the stage with Gary on bass and Ross on drums as we played a <a href="http://20lb.net/" target="_blank"><strong>20lb Sounds</strong></a> live set. I broke a string in the 3rd song but pressed on. It&#8217;s one less to worry about right?</p>
+<ul>
+<li>16:42 &#8211; <a href="http://20lb.net/" target="_blank">20lb Sounds</a> &#8211; Change &#8211; <strong>CC BY-SA Licensed</strong></li>
+<li>20:20 &#8211; <a href="http://20lb.net">20lb Sounds</a> &#8211; Jimmy Carter &#8211; <strong>CC BY-SA Licensed</strong></li>
+<li>25:19 &#8211; <a href="http://20lb.net/" target="_blank">20lb Sounds</a> &#8211; Teardrop &#8211; <strong>CC BY-SA Licensed</strong></li>
+<li>29:10 &#8211; <a href="http://20lb.net/" target="_blank">20lb Sounds</a> &#8211; El Bubblino &#8211; <strong>CC BY-SA Licensed</strong></li>
+</ul>
+<p>Next we moved on to <a href="http://www.myspace.com/pchenga" target="_blank"><strong>P&#8217;Chenga</strong></a> and their great live set. Jamie, Tony, Alan and Danny rocked the stage. Here&#8217;s a few tracks.</p>
+<ul>
+<li>33:12 - <a href="http://www.myspace.com/pchenga" target="_blank">P&#8217;Chenga</a> &#8211; One Time &#8211; <strong>License Unknown</strong></li>
+<li>35:10 &#8211; <a href="http://www.myspace.com/pchenga" target="_blank">P&#8217;Chenga</a> &#8211; I Concur &#8211; <strong>License Unknown</strong></li>
+<li>38:05 &#8211; <a href="http://www.myspace.com/pchenga" target="_blank">P&#8217;Chenga</a> &#8211; Reggae Rock &#8211; <strong>License Unknown</strong></li>
+<li>41:25 &#8211; <a href="http://www.myspace.com/pchenga" target="_blank">P&#8217;Chenga</a> &#8211; The Wise Man And The Fool &#8211; <strong>License Unknown</strong></li>
+</ul>
+<p>Finally I was delighted to welcome one of my favourite artists in Liverpool right now, <a href="http://www.facebook.com/pages/The-Corinthians/192666980759147" target="_blank"><strong>The Corinthians</strong></a>. Nicky Talent, Kyle The Unlikely, Little Dread and of course the main man Sonny on the beats. They tore the roof off with their very own brand of dub hop. Everyone was dancing. I don&#8217;t have all the track names here so please bear with me. Sorry.</p>
+<ul>
+<li>46:54 &#8211; <a href="http://www.facebook.com/pages/The-Corinthians/192666980759147" target="_blank">The Corinthians</a> &#8211; Intro &#8211; <strong>License Unknown</strong></li>
+<li>50:18 &#8211; <a href="http://www.facebook.com/pages/The-Corinthians/192666980759147" target="_blank">The Corinthians</a> &#8211; Freestyle &#8211; <strong>License Unknown</strong></li>
+<li>54:43 &#8211; <a href="http://www.facebook.com/pages/The-Corinthians/192666980759147" target="_blank">The Corinthians</a> &#8211; Exit Us &#8211; <strong>License Unknown</strong></li>
+<li>61:30 &#8211; <a href="http://www.facebook.com/pages/The-Corinthians/192666980759147" target="_blank">The Corinthians</a> &#8211; The Hot One &#8211; <strong>License Unknown</strong></li>
+</ul>
+<p>A BIG thank you to all the artists who played on the night and everyone who watched and took part online or in the room. I had a great time, I hope you did too, and I hope that comes across in the recordings. I guess that&#8217;s it for another year. Phew!</p>
+<p>I also want to direct you towards <a href="http://www.cannon-linux.co.uk/2012/05/rathole-radio-2012/" target="_blank">this hilarious review</a> by friend <strong>Peter Cannon</strong>.</p>
+<p><strong>Support The Show:</strong></p>
+<p><strong></strong>The gig cost a little bit of money to put on and at the time of writing we&#8217;re a little bit short of breaking even. Thanks to everyone who gave money on the night. If you want to chip in <a href="http://ratholeradio.org/support/">you can do via Paypal or Flattr</a>. I appreciate it.</p>
+<p>Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.</p>
+<p><strong>Get In Touch: </strong>Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I&#8217;m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom.<strong> </strong></p>
+<h3><strong>Email all feedback and suggestions to &#8211; show AT ratholeradio.org</strong></h3>
+<h3>You can also find me on <a href="http://twitter.com/ratholeradio" target="_blank">Twitter</a> and <a href="http://identi.ca/ratholeradio" target="_blank">Identi.ca</a>. Like us <a href="http://facebook.com/ratholeradio" target="_blank">on Facebook</a>.</h3>
+<h3><strong>Next Live Show:</strong> Sunday May 27th 2012 at 9:00pm UK time</h3>
+<p>Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at <strong>irc.freenode.net </strong>the channel name is <strong>#ratholeradio</strong>. I don&#8217;t expect much to happen there in the weeks between shows, but if people want to hang around and chat you&#8217;re more than welcome. Don&#8217;t forget you can access the channel from a web browser by going to <strong><a href="http://webchat.freenode.net" target="_blank">webchat.freenode.net</a> </strong>and entering #ratholeradio in the channel text box. Take care till next time folks.</p>
+<p><strong>Subscribe to the show and get it delivered for free:</strong><a href="http://feeds2.feedburner.com/RatholeRadio" target="_blank"> Mp3 feed</a> &#8211; <a href="http://feeds2.feedburner.com/RatholeRadio-ogg" target="_blank">Ogg Feed</a> &#8211; <a href="itpc://feeds2.feedburner.com/RatholeRadio" target="_blank">iTunes</a></p>
+<p><strong>Music Sources and Licensing: </strong>A few of the tracks in this show are from the artists own personal websites and don&#8217;t contain licensing information. That&#8217;s why they are listed as unknown. The individual licenses are listed next to each track, where known. If there is no license listed you must assume all rights are reserved on that song.</p>
+<p>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>.</p>
+<div id="_mcePaste" class="mcePaste" style="position: absolute; left: -10000px; top: 0px; width: 1px; height: 1px; overflow: hidden;">
+<ul>
+<li><strong>Association Of Music Podcasting:</strong>Rathole Radio is a proud member of the <a href="http://musicpodcasting.org" target="_blank">Association Of Music Podcasting</a>. Check out all the other great member shows.</li>
+<li><a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license"><img style="border-width: 0;" src="http://i.creativecommons.org/l/by-sa/2.0/uk/88x31.png" alt="Creative Commons License" /></a> Rathole Radio by <a href="http://ratholeradio.org" rel="cc:attributionURL">Dan Lynch</a> is licensed under a <a href="http://creativecommons.org/licenses/by-sa/2.0/uk/" rel="license">Creative Commons Attribution-Share Alike 2.0 UK: England &amp; Wales License</a>. Proud Member of The Association Of Music Podcasting &#8211; visit <a href="http://musicpodcasting.org" target="_blank"><strong>musicpodcasting.org</strong></a>for more details.</li>
+</ul>
+</div>
+ <p><a href="http://ratholeradio.org/?flattrss_redirect&amp;id=1142&amp;md5=1c27086867bace83a41a0ae59bf90761" title="Flattr" target="_blank"><img src="http://methoddan.webfactional.com/wp-content/plugins/flattr/img/flattr-badge-large.png" alt="flattr this!"/></a></p>]]></content:encoded>
+			<wfw:commentRss>http://ratholeradio.org/2012/05/ep78/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://traffic.libsyn.com/ratholeradio/RR078_11_05_2012.ogg" length="0" type="audio/ogg" />
+		<atom:link rel="payment" title="Flattr this!" href="https://flattr.com/submit/auto?user_id=20lb&amp;popout=1&amp;url=http%3A%2F%2Fratholeradio.org%2F2012%2F05%2Fep78%2F&amp;language=en_GB&amp;category=audio&amp;title=Rathole+Radio+78+%26%238211%3B+15th+May+2012&amp;description=Download+Ogg+%26%238211%3B+Download+Mp3+A+very+special+show+this+time+as+I+present+recordings+from+the+Rathole+Roadshow+2012+which+took+place+on+Friday+May+11th+%40+LEAF%2C+Liverpool....&amp;tags=blog" type="text/html" />
+<itunes:summary>Download Ogg – Download Mp3
+
+A very special show this time as I present recordings from the Rathole Roadshow 2012 which took place on Friday May 11th @ LEAF, Liverpool. Hear live sets from Thom Morecroft, 20lb Sounds, P’Chenga and The Corinthians. I have to give a big thanks to Andrew Bates our recording engineer, Jon Hall our live engineer, Neil Morrin for his excellent video work and Adrian McEwen for the audience bot, Bubblino and keeping us in touch with the chat room.
+
+The evening kicked off with the fabulous Thom Morecroft, accompanied by Elle on vocals and Chris on percussion. I apologise for not knowing their surnames and will endeavour to find out more. Enjoy Thom’s set.
+
+02:29 – Thom Morecroft – Moon Moon Shake It – License Unknown
+05:49 – Thom Morecroft – Oh Rocko – License Unknown
+10:33 – Thom Morecroft – Holly- License Unknown
+
+Up next I took the stage with Gary on bass and Ross on drums as we played a 20lb Sounds live set. I broke a string in the 3rd song but pressed on. It’s one less to worry about right?
+
+16:42 – 20lb Sounds – Change – CC BY-SA Licensed
+20:20 – 20lb Sounds – Jimmy Carter – CC BY-SA Licensed
+25:19 – 20lb Sounds – Teardrop – CC BY-SA Licensed
+29:10 – 20lb Sounds – El Bubblino – CC BY-SA Licensed
+
+Next we moved on to P’Chenga and their great live set. Jamie, Tony, Alan and Danny rocked the stage. Here’s a few tracks.
+
+33:12 - P’Chenga – One Time – License Unknown
+35:10 – P’Chenga – I Concur – License Unknown
+38:05 – P’Chenga – Reggae Rock – License Unknown
+41:25 – P’Chenga – The Wise Man And The Fool – License Unknown
+
+Finally I was delighted to welcome one of my favourite artists in Liverpool right now, The Corinthians. Nicky Talent, Kyle The Unlikely, Little Dread and of course the main man Sonny on the beats. They tore the roof off with their very own brand of dub hop. Everyone was dancing. I don’t have all the track names here so please bear with me. Sorry.
+
+46:54 – The Corinthians – Intro – License Unknown
+50:18 – The Corinthians – Freestyle – License Unknown
+54:43 – The Corinthians – Exit Us – License Unknown
+61:30 – The Corinthians – The Hot One – License Unknown
+
+A BIG thank you to all the artists who played on the night and everyone who watched and took part online or in the room. I had a great time, I hope you did too, and I hope that comes across in the recordings. I guess that’s it for another year. Phew!
+I also want to direct you towards this hilarious review by friend Peter Cannon.
+Support The Show:
+The gig cost a little bit of money to put on and at the time of writing we’re a little bit short of breaking even. Thanks to everyone who gave money on the night. If you want to chip in you can do via Paypal or Flattr. I appreciate it.
+Please spread the word about the show. Tell 1 friend, it could make a big difference if everyone does it.
+Get In Touch: Please send me your thoughts and feedback on the music I play or any other aspect of the show. If you make music or you know people who make music and you think they should be on the show, send me suggestions and demos by all means. I’m always pleased to find new music and share it with people. Most of that is down to you, the wonderful listeners and your wisdom. 
+Email all feedback and suggestions to – show AT ratholeradio.org
+You can also find me on Twitter and Identi.ca. Like us on Facebook.
+Next Live Show: Sunday May 27th 2012 at 9:00pm UK time
+Thanks for listening, I hope you enjoyed the show. Thanks also to everyone who turned up in our IRC channel at irc.freenode.net the channel name is #ratholeradio. I don’t expect much to happen there in the weeks between shows, but if people want to hang around and chat you’re more than welcome. Don’t forget you can access the channel from a web browser by going to webchat.freenode.net and entering #ratholeradio in the channel text box. Take care till next time [...]</itunes:summary>
+<itunes:subtitle>Download Ogg – Download Mp3 A very special show this time as I present recordings from the Rathole ...&lt;a href=&quot;http://ratholeradio.org/2012/05/ep78/&quot; class=&quot;read-more&quot;&gt;Continue Reading&lt;/a&gt;</itunes:subtitle>
+	</item>
+	</channel>
+</rss>
