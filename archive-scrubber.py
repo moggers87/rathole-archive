@@ -1,4 +1,4 @@
-import time
+import time, re
 from BeautifulSoup import BeautifulSoup
 import xml.etree.ElementTree as etree
 # archive starts page 1
@@ -19,13 +19,27 @@ while 1:
     # compare to last page
         # if the same break, we have all the pages
 
+    #set regexs outside the loops
+    track_matching = re.compile("[0-9]{2}\:[0-9]{2}", re.MULTILINE)
+    detail_matching = re.compile("&#8211;|&#8212;", re.MULTILINE)
+
     # Parse xml from feed
     for item in feed_tree.find('channel').findall('item'):
         html = BeautifulSoup(item.find('{http://purl.org/rss/1.0/modules/content/}encoded').text)
+        print detail_matching.split(item.find('title').text)[0]
+
         for p in html.findAll('p'):
             # pick out timestamps for songs and parse strings
             # each time stamp doesn't occur with a <p> :(
-            print p.getText()
-            print "====="
-        break
+            times = track_matching.findall(p.getText())
+            details = track_matching.split(p.getText())[-len(times):]
+
+            i = 0
+            while i < len(times):
+                track_info = detail_matching.split(details[i])[1:333]
+                if "LIVE SONG" in track_info[0]:
+                    i = i + 1
+                    continue
+                print "%s: %s" % (times[i], track_info)
+                i = i + 1
     break
