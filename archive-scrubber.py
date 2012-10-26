@@ -26,20 +26,21 @@ while 1:
     # Parse xml from feed
     for item in feed_tree.find('channel').findall('item'):
         html = BeautifulSoup(item.find('{http://purl.org/rss/1.0/modules/content/}encoded').text)
-        print detail_matching.split(item.find('title').text)[0]
+        print detail_matching.split(item.find('title').text.encode('utf-8'))[0]
 
         for p in html.findAll('p'):
             # pick out timestamps for songs and parse strings
             # each time stamp doesn't occur with a <p> :(
             times = track_matching.findall(p.getText())
             details = track_matching.split(p.getText())[-len(times):]
-
             i = 0
             while i < len(times):
-                track_info = detail_matching.split(details[i])[1:333]
-                if "LIVE SONG" in track_info[0]:
+                track_info = detail_matching.split(details[i])[1:]
+                if not len(track_info):
                     i = i + 1
-                    continue
-                print "%s: %s" % (times[i], track_info)
-                i = i + 1
+                elif u'LIVE SONG' in track_info[0]:
+                    i = i + 1
+                else:
+                    print "%s: %s" % (times[i], track_info)
+                    i = i + 1
     break
