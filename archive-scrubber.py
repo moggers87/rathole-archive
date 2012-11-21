@@ -1,19 +1,25 @@
 # -*- coding: utf-8 -*-
-import time, re, urllib2, json
+import re, urllib2, json
 from BeautifulSoup import BeautifulSoup
 import xml.etree.ElementTree as etree
 
-archive = ["http://ratholeradio.org/category/podcast/feed/?paged=%i","http://ratholeradio.org/category/uncategorized/feed/?paged=%i","http://ratholeradio.org/category/live/feed/?paged=%i","http://ratholeradio.org/category/interview-2/feed/?paged=%i"]
-
-# set regexs outside the loops
-track_matching = re.compile("[0-9]{2}\:[0-9]{2}", re.MULTILINE) # find things like 12:45
-detail_matching = re.compile("&#8211;|&#8212;|-", re.MULTILINE) # split out dashes
+archive = [
+    "http://ratholeradio.org/category/podcast/feed/?paged=%i",
+    "http://ratholeradio.org/category/uncategorized/feed/?paged=%i",
+    "http://ratholeradio.org/category/live/feed/?paged=%i",
+    "http://ratholeradio.org/category/interview-2/feed/?paged=%i"
+]
 
 database_file = 'database.json'
+
+# set regexs outside the loops
+track_matching = re.compile("[0-9]{2}\:[0-9]{2}", re.MULTILINE)
+detail_matching = re.compile("&#8211;|&#8212;|-", re.MULTILINE)
 
 try:
     database = open(database_file, 'r')
     episodes = json.load(database, 'utf-8')
+    database.close()
 except Exception, e:
     print e
     episodes = {}
@@ -30,10 +36,11 @@ def get_tracks(found_tags):
             track_info = detail_matching.split(details[i])[1:]
             if not len(track_info):
                 i = i + 1
-            elif u'LIVE SONG' in track_info[0]:
+            elif u'LIVE' in track_info[0]:
                 i = i + 1
             else:
-                tracks[times[i]] = track_info[:2]
+                artist, title = track_info[:2]
+                tracks[times[i]] = [artist.strip(), title.strip()]
                 i = i + 1
     return tracks
 
@@ -66,10 +73,12 @@ for url in archive:
                 print "We've not seen %s yet" % link
 
             # Grab tracks
-            html = BeautifulSoup(item.find('{http://purl.org/rss/1.0/modules/content/}encoded').text)
-            tracks = get_tracks(html.findAll('p'))
-            tracks.update(get_tracks(html.findAll('li')))
-            episodes[link] = tracks
+            html = BeautifulSoup(item.find(
+                '{http://purl.org/rss/1.0/modules/content/}encoded').text
+            )
+            episode_tracks = get_tracks(html.findAll('p'))
+            episode_tracks.update(get_tracks(html.findAll('li')))
+            episodes[link] = episode_tracks
 
 database = open(database_file, 'w')
 database.write(json.dumps(episodes, sort_keys=True, indent=4))
